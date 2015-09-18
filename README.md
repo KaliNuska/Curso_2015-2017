@@ -1,5 +1,5 @@
 # Curso 2015/2016:  
-Aquí se encuentra el [**Índice**](#indice "Índice") completo de recursos que contiene el repositorio:  
+Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2016/blob/master/README.md "Índice") completo de recursos que contiene el [repositorio](https://github.com/KaliNuska/Curso_2015-2016 "Curso 2015/2016):  
 ### Índice:  
   * [**Filosofía**]():  
     * [Tema 1 - La Filosofía]()  
