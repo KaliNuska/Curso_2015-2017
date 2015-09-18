@@ -1,8 +1,8 @@
 # Curso 2015/2016:  
 Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2016/blob/master/README.md "Índice") completo de recursos que contiene el [repositorio](https://github.com/KaliNuska/Curso_2015-2016 "Curso 2015/2016"):  
 ### Índice:  
-  * [**Filosofía**]():  
-    * [Tema 1 - La Filosofía]()  
+  * [**Filosofía**](https://github.com/KaliNuska/Curso_2015-2016/tree/master/Filosofia):  
+    * [Tema 1 - La Filosofía](https://github.com/KaliNuska/Curso_2015-2016/blob/master/Filosofia/Tema%201%20-%20La%20Filosof%C3%ADa.md#tema-1-la-filosof%C3%ADa)  
     [*Versión PDF*]()  
   * [**Tecnología Industrial**]():  
     * [Bloques temáticos]()  
