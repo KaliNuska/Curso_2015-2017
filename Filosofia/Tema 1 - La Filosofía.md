@@ -21,3 +21,13 @@ Comprende distintas ramas, que se estudian por separado:
   * **Gnoseología**: teoría del conocimiento.  
   * **Lógica**: razonamientos válidos.  
   * **Ontología** o **metafísica**: realidad.  
+
+### Filosofía Práctica:  
+Hay dos grandes ramas de la filosofía práctica:  
+  * **Ética**: plantea preguntas de ámbito individual: *`¿Hay que decir siempre la verdad?`*.  
+  * **Política**: plantea cuestiones que incumben a grupos y colectivos: *`¿Existe el bien común`*, *`¿Cómo se consigue?`* o *`¿Hace falta Estado?`*.  
+
+
+Sin embargo, hay ramas filosóficas que no encajan únicamente en uno u otro ámbito, sino que están comprendidas en *teoría* y en *práctica*:  
+  * **Estética**
+  * **Histórica**
