@@ -29,5 +29,5 @@ Hay dos grandes ramas de la filosofía práctica:
 
 
 Sin embargo, hay ramas filosóficas que no encajan únicamente en uno u otro ámbito, sino que están comprendidas en *teoría* y en *práctica*:  
-  * **Estética**
-  * **Histórica**
+  * **Estética**: incluye tanto preguntas teóricas sobre qué es el arte o la belleza, como prácticas refiriéndose a cómo ponerlos en práctica.  
+  * **Histórica**: hace reflexiones acerca de las distintas políticas llevadas a cabo a lo largo del pasado.  
