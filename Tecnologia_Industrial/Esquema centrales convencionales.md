@@ -3,6 +3,6 @@
 [Centrales térmicas convencionales](http://www.endesaeduca.com/Endesa_educa/recursos-interactivos/produccion-de-electricidad/viii.-las-centrales-termicas-convencionales)  
 [Centrales térmicas de ciclo combinado](http://www.endesaeduca.com/Endesa_educa/recursos-interactivos/produccion-de-electricidad/ix.-las-centrales-termicas-de-ciclo-combinado)  
 ### Central Nuclear de Fisión:  
-[Central nuclear de fusión](http://www.endesaeduca.com/Endesa_educa/recursos-interactivos/produccion-de-electricidad/x.-las-centrales-nucleares)  
+[Central nuclear de fisión](http://www.endesaeduca.com/Endesa_educa/recursos-interactivos/produccion-de-electricidad/x.-las-centrales-nucleares)  
 ### Central Nuclear de Fusión:  
-[Central nuclear de fisión](https://es.wikipedia.org/wiki/Reactores_de_fusi%C3%B3n_nuclear)  
+[Central nuclear de fusión](https://es.wikipedia.org/wiki/Reactores_de_fusi%C3%B3n_nuclear)  
