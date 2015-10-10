@@ -11,6 +11,7 @@ Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2016
   [*Versión PDF*]()  
   * [**Bloque 1 - Las Energías**](Tecnologia_Industrial/Las Energías.md)  
   [*Versión PDF*]()  
+  * [**Esquema de las centrales convencionales que emplean fuentes de energía no renovables**](Tecnologia_Industrial/Esquema%20centrales%20convencionales.md#esquema-de-las-centrales-convencionales-que-emplean-fuentes-de-energ%C3%ADa-no-renovables)  
 
 #### [TIC](TIC):  
 
