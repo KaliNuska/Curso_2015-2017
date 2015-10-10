@@ -14,6 +14,7 @@ Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2016
   * [**Esquema de las centrales convencionales que emplean fuentes de energía no renovables**](Tecnologia_Industrial/Esquema%20centrales%20convencionales.md#esquema-de-las-centrales-convencionales-que-emplean-fuentes-de-energ%C3%ADa-no-renovables)  
 
 #### [TIC](TIC):  
+  * [**Piezas de Ordenador**](TIC/Piezas%20de%20ordenador.md#piezas-de-un-ordenador)  
 
 #### [Matemáticas](Matematicas):  
  1. **Trigonometría**:  
