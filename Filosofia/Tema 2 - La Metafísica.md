@@ -1,12 +1,12 @@
 ## Tema 2 - La Metafísica:  
-  1.  [**Definición y sentido de metafísica**](#)  
-  2.  [**Historia de la metafísica occidental**](#)  
-    1. Los orígenes de la metafísica: el problema del ser
-      * El ser de Parménides
-      * El devenir de Heráclito
-      * Lo uno y lo múltiple
-      * La teoría de las ideas de Platón
-      * El ser de Aristóteles
+  1.  [**Definición y sentido de metafísica**](#1-definición-y-sentido-de-metafísica)  
+  2.  [**Historia de la metafísica occidental**](#2-historia-de-la-metafísica-occidental)  
+    1. [Los orígenes de la metafísica: el problema del ser]()
+      * [El ser de Parménides](#el-ser-de-parménides)
+      * [El devenir de Heráclito](#el-devenir-de-heráclito)
+      * [Lo uno y lo múltiple](#lo-uno-y-lo-múltiple)
+      * [La teoría de las ideas de Platón]()
+      * [El ser de Aristóteles]()
     2. La metafísica medieval
       * Esencia y existencia
       * El problema de los universales
@@ -23,7 +23,7 @@
         * El positivismo (Comte)
         * El vitalismo (Nietzsche)
         * El existencialismo (Sartre)
-  3.  [**Problemas fundamentales de metafísica**](#)  
+  3.  [**Problemas fundamentales de metafísica**](#3-problemas-fundamentales-de-metafísica)  
     1. ¿Existe Dios?
       * Respuestas afirmativas
         * Teísmo
@@ -49,24 +49,25 @@ La metafísica no es un campo concreto, sino que se ocupa del **Ser** en cuanto 
 Ajena a la metafísica se encuentra la **teología**, que estudia el **Ser supremo** dentro de la religión.
 
 ### 2. Historia de la Metafísica Occidental:  
-#### El Ser de Parménides:  
+#### Los orígenes de la metafísica: El problema del Ser
+##### El Ser de Parménides:  
 La primera aparición del pensamiento metafísico la llevó a cabo Parménides. Su teoría es la siguiente:  
-  * El **ser es** (*existe*) y el **no ser no es** (*es nada*, *no existe*).  
-  * El ser no cambia, porque de cambiar pasaría a no ser.  
-  * El ser no tiene movimiento, porque de moverse lo haría a un sitio en el que no sería, por tanto pasaría a no ser.  
-  * El ser es una esfera homogénea y maciza.  
+  * El **Ser es** (*existe*) y el **No Ser no es** (*es nada*, *no existe*).  
+  * El Ser no cambia, porque de cambiar pasaría a No Ser.  
+  * El Ser no tiene movimiento, porque de moverse lo haría a un sitio en el que no sería, por tanto pasaría a No Ser.  
+  * El Ser es una esfera homogénea y maciza.  
 
 Todo a lo que Parménides se refiere en cuanto al Ser es aquello que no alcanzamos a percibir. La realidad que sí percibimos son cambios ficticios porque todo lo real es constante. De este modo se diferencian dos niveles de **realidad**:  
   * **No perceptible**: es real y el Ser es constante.  
   * **Perceptible**: es ficticop y en él se dan los cambios que notamos.  
 
-### El Devenir de Heráclito:  
+##### El Devenir de Heráclito:  
 Contraria a la teoría de Parménides se encuentra la teoría de **Heráclito**:  
   * El Ser está en constante ***devenir*** (cambio) originado por la lucha de opuestos.  
   * El elemento que representa a esta teoría es el **fuego**, que origina todo y está en constante cambio.  
   * Todos los cambios tienen un sentido que se denomina **logos**.  
 
-### Lo Uno y lo Múltiple:  
+##### Lo Uno y lo Múltiple:  
 El ***arché*** es el **principio único explicativo del Universo**.  
 Desde el inicio de la metafísica se le atribuye al arché el **origen** de todo. Sobre él surgen dos teorías:  
   * **Monismo**:
