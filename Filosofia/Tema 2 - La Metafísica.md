@@ -7,7 +7,7 @@
       * [Lo uno y lo múltiple](#lo-uno-y-lo-múltiple)
       * [La teoría de las ideas de Platón](#la-teoría-de-las-ideas-de-platón)
       * [El ser de Aristóteles](#el-ser-de-aristóteles)
-    2. [La metafísica medieval](#)
+    2. [La metafísica medieval](#la-metafísica-medieval)
       * [Esencia y existencia](#)
       * [El problema de los universales](#)
     3. [La metafísica moderna](#)
@@ -70,8 +70,35 @@ Contraria a la teoría de Parménides se encuentra la teoría de **Heráclito**:
 ##### Lo Uno y lo Múltiple:  
 El ***arché*** es el **principio único explicativo del Universo**.  
 Desde el inicio de la metafísica se le atribuye al arché el **origen** de todo. Sobre él surgen dos teorías:  
-  * **Monismo**:
+  * **Monismo**: al arché equivale a un único elemento.  
     * Tales de Mileto: dice que el arché es un único elemento, el **agua**. Se le atribuye al agua el **origen**, el **sustrato** y la **causa** de la **realidad**.  
     * Anaximandro de Mileto: trata al arché como algo **indeterminado**, como ***Apeiron*** (conjunto caótico de los cuatro elementos). Por transformaciones sucesivas, el apeiron origina todo.  
     * Anaxímedes de Mileto: considera que el arché es **aire**. También cree que de éste se pueden originar el resto de elementos mediante transformaciones.  
-  * **Pluralismo**:
+  * **Pluralismo**: es más de un elemento el que da forma al arché.  
+    * Pitágoras: explica el origen basándos en los **números**. Detrás de toda la realidad hay una proporción matemática. La estructura de todo se forma con los **Cinco Sólidos Regulares** y el quinto elemento se corresponde con el éter o el alma.  
+    * Anaxágoras: dice que lo cuatro elementos existían en el origen y estaban separados. Además hay un ser divino que esos elementos para hacer todo. Ese ser divino es ***Nous*** que, no crea el mundo, sino que lo combina.
+    * Empédrocles: los cuatro elementos lo constituyen **todo**, no hay posibilidad de **vacío**. El Universo que se origina es eterno y finito.
+    * Demócrito: ya tomaba en cuenta que detrás de cada realidad existían **átomos**. En los espacios entre ellos, hay **vacío**. Esos átomos se distinguen por su forma, tamaño y peso. De esta reflexión se saca la conclusión de que todo es material.
+
+##### La Teoría de las Ideas de Platón:  
+El Siglo `IV` fue el **Siglo de Oro** de la metafísica. Durante ese período **Aristóteles** y **Platón** destacaron como los filósofos más importantes.  
+  * **Platón**: fue discípulo de Sócrates. Elabora su porpia filosofía, a la que denomina **Teoría de las Ideas**.  
+  La Teoría de las Ideas se basa en el dualismo ontológico, esto es, la existencia de dos realidades:
+   * Mundo **sensible**: es del que nos informan nuestros sentidos, el mundo físico, de las cosas. Es un mundo **material**, **perecedero**, **mutable** (cambia) e **imperfecto**.
+   * Mundo **inteligible**: lo forman las **Ideas**, a él se entra mediante el intelecto y el razonamiento. Es **inmaterial**, **eterno**, **constante** y **perfecto**.  
+  Las Ideas se definen como **esencias**, las esencias son perfectas, pero al pasarlas al mundo sensible, se llenan de impurezas. Por tanto, las Ideas en el mundo inteligible son **conceptos plenos**, no solamente representaciones mentales.  
+
+##### El Ser de Aristóteles:  
+  * **Aristóteles**: fue discípulo de Platón. Escribió el libro filosófico *"La filosofía primera"*.  
+  Para Aristóteles la metafísica es tanto Ontología como Teología:
+   * **Ontología**: La metafísica es la ***ciencia del ser en tanto que ser***.  
+   * **Teología**: La metafísica es la ***ciencia de las últimas causas*** (de las más ancestrales).  
+  Existen dos formas distintas de ser: **Substancia** o **Accidente**.  
+   * Los accidentes son las **cualidades cambiantes** de todo aquello que existe. Pueden cambiar o no manifestarse, pero siempre van ligados a una substancia. Nos permiten hacer una descripción del Ser mediante categorías: *cantidad, cualidad, relación, tiempo...*.  
+   * La substancia es aquello qu existe y es diferente al resto. **No cambia**. Tiene significado propio, es decir, **definición**, por lo que se pueden definir, no describir. Para definir una substancia se indica su *Especie* y sus *cualidades específicas*.  
+   La palabra **esencia** siempre va referida a substancia, mientras que **apariencia** a accidente.  
+   La substancia es ***hilemórfica**, es decir, siempre tiene **materia** (algo concreto) y **forma** (algo universal, lo característico de las esencias). No puede existir materia sin forma.  
+   La substancia se puede estudiar en **acto** y en **potencia**. La potencia es el conjunto de posibilidades que puede tomar. El acto es la que se manifiesta en este momento. Existe una correlación entre *acto y forma* y *potencia y materia*: `Acto → Forma`  `Potencia → Materia`  
+   Se produce el cambio o movimiento cuando la potencia pasa a acto. Existen 3 tipos de cambios: **Movimiento estricto** (cambio de posición), **movimiento cuantitativo** (incremento del tamaño, puede ser negativo), **movimiento cualitativo** (alteración de un accidente).  Cualquiera de estos cambios conlleva la adición o sustracción de un **atributo**. La substancia entera puede cambiar y pasar de ser `A` a ser `B`, pero conserva su **esencia**.  
+
+#### La Metafísica Medieval:  
