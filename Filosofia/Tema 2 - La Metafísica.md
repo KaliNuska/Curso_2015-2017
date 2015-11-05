@@ -11,19 +11,19 @@
       * [Esencia y existencia](#esencia-y-existencia)
       * [Los universales](#los-universales)
     3. [La metafísica moderna](#la-metafísica-moderna)
-      * [Las sustancias](#las-sustancias)
-      * [El realismo y la teoría de la representación](#)
-        * [El realismo natural](#)
-        * [El realismo crítico](#)
-        * [El criticismo](#)
-    4. [La metafísica contemporánea](#)
-      * [El idealismo alemán](#)
-      * [Las críticas a la metafísica](#)
-        * [El materialismo (Marx)](#)
-        * [El positivismo (Comte)](#)
-        * [El vitalismo (Nietzsche)](#)
-        * [El existencialismo (Sartre)](#)
-  3.  [**Problemas fundamentales de metafísica**](#3-problemas-fundamentales-de-metafísica)  
+      * Las sustancias
+      * El realismo y la teoría de la representación
+        * El realismo natural
+        * El realismo crítico
+        * El criticismo
+    4. [La metafísica contemporánea](#la-metafísica-contemporánea)
+      * [El idealismo alemán](#el-idealismo-alemán)
+      * [Las críticas a la metafísica](#las-críticas-a-la-metafísica)
+        * [El materialismo (Marx)](#el-materialismo-de-marx)
+        * [El positivismo (Comte)](#el-positivismo-de-comte)
+        * [El vitalismo (Nietzsche)](#el-vitalismo-de-nietzsche)
+        * [El existencialismo (Sartre)](#el-existencialismo-de-sartre)
+  3.  [**Problemas fundamentales de metafísica**](#problemas-fundamentales-de-metafísica)  
     1. [¿Existe Dios?](#)
       * [Respuestas afirmativas](#)
         * [Teísmo](#)
@@ -116,3 +116,12 @@ Hay dos problemas importantes en la metafísica medieval: **Esencia y Existencia
   * **Moderados**: `Aristóteles`, `Santo Tomás`. Los universales existen integrados en las cosas concretas.  
   * **Radicales**: `Platón`. Los universales existen y son realidades fundamentales. Están fuera de cada ser (*mundo inteligible*).  
   Los que creen que los universales no existen son **nominalistas**: `Ockham`. Los universales no existen, son solo nombres que mencionan los conjuntos de **individuos**.  
+
+#### La Metafísica Moderna:
+La metafísica moderna enfoca su reflexión en el **yo cognisciente**. Comienza a plantearse la posibilidad de que lo que se conoce y se observa puede no ser real o que se perciba de forma distorionada. Por tanto, la filosofía se aplica en un supuesto sujeto que sí conoce la realidad, es decir, que no posee un concepto distorsionado.  
+El Ser es aquello que **se es**, mientras que las ideas son las **representaciones** de la realidad.  
+En contraposición con la filosofía antigua, la filosofía moderna se plantea la siguiente pregunta: ***`¿Captamos directamente la realidad?`***.  
+Los filósofos previos reponderían que sí, por lo que seguían la teoría del **Realismo Natural**. Creían que conocían al Ser como es.  
+Con el surgimiento de la metafísica moderna aparece la **teoría de la representación**, que establece que las percepciones que tenemos no son lo que en realidad son, sino representaciones. En ese caso, puede que más allá de las representaciones exista una realidad total. El **idealismo** (Berkeley) es la teoría que cree que no la hay, que todo, absolutamente todo lo que conocemos son representaciones en forma de ideas propias. Las teorías que rebaten el idealismo establecen que si se percibe una representación, por muy distintas opciones para cada persona que surjan de ella (variedad de opiniones), existe una realidad de la que está surgiendo esa representación. No se puede acceder a la realidad total, porque lo que podemos recibir de ella son sólo representaciones. Las dos teorías que concuerdan con esto son la de **Locke** y la de **Kant**. En el caso de Kant se denomina **criticismo** o **filosofía trascendental** y la desarrolla en el Siglo `XVIII`.  
+
+#### Metafísica Contemporánea:  
