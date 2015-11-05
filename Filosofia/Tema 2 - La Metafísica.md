@@ -25,18 +25,18 @@
         * [El existencialismo (Sartre)](#el-existencialismo-de-sartre)
   3.  [**Problemas fundamentales de metafísica**](#problemas-fundamentales-de-la-metafísica)  
     1. [¿Existe Dios?](#existe-dios)
-      * [Respuestas afirmativas](#repuestas-afirmativas)
+      * [Respuestas afirmativas](#respuestas-afirmativas)
         * [Teísmo](#teísmo)
         * [Deísmo](#deísmo)
         * [Panteísmo](#panteísmo)
-      * [Respuestas negativas](#repuestas-negativas)
+      * [Respuestas negativas](#respuestas-negativas)
         * [Ateismo](#ateísmo)
       * [Respuestas indeterminadas](#respuestas-indeterminadas)
         * [Agnosticismo](#agnosticismo)
     2. [El sentido de la vida](#el-sentido-de-la-vida)
       * [Definición de sentido](#definición-de-sentido)
       * [Tres respuestas](#tres-respuestas)
-        * [No hay un sentido](#no-hay-sentido)
+        * [No hay un sentido](#no-hay-un-sentido)
         * [Hay un sentido trascendente](#hay-un-sentido-trascendente)
         * [Hay un sentido inmanente](#hay-un-sentido-inmanente)
 
@@ -150,7 +150,7 @@ Descartes afirma que Dios garantiza que el Mundo y el Alma coincidad, por lo que
 Es una teoría **materialista** y muy sencilla. Solamente existe lo material. Los pensamientos y cualquier cosa que exista ha de ser material.  
 
 #### La Metafísica Contemporánea:  
-##### Idealismo alemán:  
+##### El Idealismo alemán:  
 Esta teoría se basa en el Criticismo de Kant y se opone al materialismo. La llevan a cabo **Hegel**, Fichte y Schelling.  
 Cabe destacar que considera que no existe nada más lejos de lo que se puede pensar. Por este motivo contrasta con la filosofía kantiana de forma que la realidad que se percibe es, en cierto modo, la realidad en sí misma. La realidad se entiende como producto de la razón, pues no se concibe simplenemte con percibir cosas, sino con reflexionarlas.  
 
