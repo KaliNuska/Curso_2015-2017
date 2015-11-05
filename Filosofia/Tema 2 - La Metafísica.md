@@ -23,22 +23,22 @@
         * [El positivismo (Comte)](#el-positivismo-de-comte)
         * [El vitalismo (Nietzsche)](#el-vitalismo-de-nietzsche)
         * [El existencialismo (Sartre)](#el-existencialismo-de-sartre)
-  3.  [**Problemas fundamentales de metafísica**](#problemas-fundamentales-de-metafísica)  
-    1. [¿Existe Dios?](#)
-      * [Respuestas afirmativas](#)
-        * [Teísmo](#)
-        * [Deísmo](#)
-        * [Panteísmo](#)
-      * [Respuestas negativas](#)
-        * [Ateismo](#)
-      * [Respuestas indeterminada](#)
-        * [Agnosticismo](#)
-    2. [El sentido de la vida](#)
-      * [Definición de sentido](#)
-      * [Tres respuestas](#)
-        * [No hay un sentido](#)
-        * [Hay un sentido inmanente](#)
-        * [Hay un sentido trascendente](#)
+  3.  [**Problemas fundamentales de metafísica**](#problemas-fundamentales-de-la-metafísica)  
+    1. [¿Existe Dios?](#existe-dios)
+      * [Respuestas afirmativas](#repuestas-afirmativas)
+        * [Teísmo](#teísmo)
+        * [Deísmo](#deísmo)
+        * [Panteísmo](#panteísmo)
+      * [Respuestas negativas](#repuestas-negativas)
+        * [Ateismo](#ateísmo)
+      * [Respuestas indeterminadas](#respuestas-indeterminadas)
+        * [Agnosticismo](#agnosticismo)
+    2. [El sentido de la vida](#el-sentido-de-la-vida)
+      * [Definición de sentido](#definición-de-sentido)
+      * [Tres respuestas](#tres-respuestas)
+        * [No hay un sentido](#no-hay-sentido)
+        * [Hay un sentido trascendente](#hay-un-sentido-trascendente)
+        * [Hay un sentido inmanente](#hay-un-sentido-inmanente)
 
 ### 1. Definición y sentido de Metafísica:  
 En filosofía, la palabra **metafísica** significa ***`más allá de lo que se ve`***. Es lo mismo que el término **Ontología**, ambos expresan los límites de lo natural o real, o lo que es lo mismo: **`El Ser`**.  
@@ -124,4 +124,107 @@ En contraposición con la filosofía antigua, la filosofía moderna se plantea l
 Los filósofos previos reponderían que sí, por lo que seguían la teoría del **Realismo Natural**. Creían que conocían al Ser como es.  
 Con el surgimiento de la metafísica moderna aparece la **teoría de la representación**, que establece que las percepciones que tenemos no son lo que en realidad son, sino representaciones. En ese caso, puede que más allá de las representaciones exista una realidad total. El **idealismo** (Berkeley) es la teoría que cree que no la hay, que todo, absolutamente todo lo que conocemos son representaciones en forma de ideas propias. Las teorías que rebaten el idealismo establecen que si se percibe una representación, por muy distintas opciones para cada persona que surjan de ella (variedad de opiniones), existe una realidad de la que está surgiendo esa representación. No se puede acceder a la realidad total, porque lo que podemos recibir de ella son sólo representaciones. Las dos teorías que concuerdan con esto son la de **Locke** y la de **Kant**. En el caso de Kant se denomina **criticismo** o **filosofía trascendental** y la desarrolla en el Siglo `XVIII`.  
 
-#### Metafísica Contemporánea:  
+##### El Criticiasmo o Filosofía Trascendental:  
+La desarrolla **Kant** en el Siglo `XVIII`. Cuestiona la metafísica clásica introduciendo los conceptos de **noúmeno** y **fenómeno**.  
+Kant dice que sólo se pueden **percibir los fenómenos**, pero **existe** el **noúmeno** como lo que no se puede percibir. Tres cosas forman el noúmeno:  
+  * El **Mundo** en su totalidad: objetos.  
+  * El **Alma**: sentimientos.
+  * **Dios**.
+
+Los fenómenos son representaciones perceptibles en espacio y tiempo.  
+Kant rechaza la idea de una ciencia metafísica porque la ciencia no puede alcanzar el noúmeno, sino que trabaja con fenómenos. Sin embargo, considera que, dentro de la propia metafísica, tampoco es posible una metafísica teórica. Por lo tanto sólo está de acuerdo con la **metafísica práctica**, que establece que actuamos *presuponiendo la existencia de noúmenos* a pesar de no poder demostrarlos.  
+
+##### Teoría Representacionista de Descartes:  
+Afirma que el pensamiento piensa ideas, que, como anteriormente, se refiere a representaciones.  
+Descartes es el primer filósofo de la metafísica moderna. Lo que en la teoría de Kant se conoce como noúmeno, Descartes lo clasifica de la siguiente manera:  
+
+| Substancia | Nombre representacionista | Concepto |
+|-------:|:----------|:------:|
+| Mundo | Res extensa | Extensión (objetos materiales) |
+| Alma | Res cogitans | Pensamiento (sentimientos) |
+| Dios | Substancia infinita | Perfección |
+
+Descartes afirma que Dios garantiza que el Mundo y el Alma coincidad, por lo que la idea que se tiene de un Ser sí es idéntica al Ser. Las distintas representaciones de una cosa son las formas de llegar a la misma cosa.  
+
+##### Teoría Materialista de La Mettrie:  
+Es una teoría **materialista** y muy sencilla. Solamente existe lo material. Los pensamientos y cualquier cosa que exista ha de ser material.  
+
+#### La Metafísica Contemporánea:  
+##### Idealismo alemán:  
+Esta teoría se basa en el Criticismo de Kant y se opone al materialismo. La llevan a cabo **Hegel**, Fichte y Schelling.  
+Cabe destacar que considera que no existe nada más lejos de lo que se puede pensar. Por este motivo contrasta con la filosofía kantiana de forma que la realidad que se percibe es, en cierto modo, la realidad en sí misma. La realidad se entiende como producto de la razón, pues no se concibe simplenemte con percibir cosas, sino con reflexionarlas.  
+
+##### Las Críticas a la Metafísica:  
+A partir del Siglo `XIX` se desarrollan varias corrientes filosóficas que critican la metafísica.
+
+###### El Materialismo de Marx:  
+Remueve cualquier valor que pueda tener la metafísica y la religión. Considera que únicamente sirven para adormecer y achacar las sublevaciones naturales. Marx dice que la única realidad es **material** y es el dinero. Su teoría filosófica es puramente económica.  
+
+###### El Vitalismo de Nietzsche:  
+Esta teoría considera que la ocupación principal de la filosofía debe ser la **vida humana**, no el conocimiento del Ser en general. La vida es lo que se desarrolla en el **presente** y en este mundo, por eso la metafísica no tiene lugar, porque estudia otros mundos suprasensibles.  
+Entiende la realidad metafísica como una **invención** que únicamente sirve para otrogarle poder a la *casta sacerdotal*.  
+
+###### El Positivismo de Comte:  
+El conocimiento real o **positivo** es la ciencia. Para Comte la metafísica carece de sentido porque no tiene una explicación científica, es un ***pseudo-saber***.  
+El *neopositivismo* surge para explicar que todo lo que se conoce como verdadero conlleva un razonamiento lógico válido.  
+
+###### El Existencialismo de Sartre:  
+Esta filosofía triunfa tras la Segunda Guerra Mundial. Considera que el centro de toda la filosofía debe ser la **existencia**. Lo que verdaderamente importa es la existencia de uno mismo. **`La vida va antes que la razón`**.  
+
+### 3. Problemas Fundamentales de la Metafísica:  
+#### ¿Existe Dios?:  
+La rama de la metafísica que estudia este problema es la **teología**. Desarrolla tres planteamientos diferentes.  
+
+##### Respuestas afirmativas:  
+Son las más numerosas, aunque se destacan solo tres.  
+
+###### Teísmo:  
+Defiende que **Dios** creó el mundo y que **permanece** interactuando con él. Se puede **demostrar** la existencia de Dios porque desde el comienzo de los tiempos Dios se aparece en repetidas ocasiones.  
+Su planteamiento se basa en cuatro argumentos:  
+  * Causal o cosmológico: a todas las causas les preceden otras. Debe haber algo previo.  
+  * Teleológico: todo está diseñado con una finalidad.  
+  * Ontológico: Dios es un ser perfecto, pero para serlo tiene que tener existencia, de lo contrario no sería.  
+  * Antropológico: Dios es el que nos da la conciencia yn determina cómo actuamos.  
+
+###### Deísmo:  
+Defiende la existencia de un Dios creador, pero que no se aparece ni sigue el transcruso del tiempo.  
+El deísmo es compatible tanto con religiones como con pensamiento ateo.  
+
+###### Panteísmo:  
+Afirma que Dios es todo, está representado en todas las cosas de la Naturaleza. Sin embargo Dios no es personal, *está* presente en el mundo.  
+
+##### Respuestas Negativas:  
+###### Ateísmo:
+Los filósofos ateos afirman que se puede demostrar que Dios no existe, sino que es una mera invención del hombre. `Dios no crea al hombre, sino el hombre crea a Dios`: *Nietzsche*.
+  * Marx: `Dios es el opio del pueblo`. La función de Dios y la religión consiste en mantener constante la sociedad. Es una invención de la clase dominante para evitar sublevaciones o cambios.  
+  Para Marx la ***alienación*** es la característica por la que un ser humano se identifica con otro distinto de sí mismo y queda desposeído de sus potencialidades, por lo que no es posible la autorrealización.  
+  * Nietzsche: el hombre religioso es inferior y se comporta como rebaño cuyo pastor es Dios. La religión representa lo contrario a la vida y surge por el ansia de poder de la *casta sacerdotal*.  
+  * Sartre: Dios es el refugio de la soledad humana. Representa una realidad inauténtica que se crea negando las cualidades humanas.  
+
+##### Respuestas Indeterminadas:  
+###### Agnosticismo:  
+Sus dos principales representantes son Unamuno y Pascal. No se puede demostrar que Dios exista o deje de hacerlo. Los seguidores de esta filosofía se dividen en creyentes y no creyentes porque se dan ambas posibilidades.  
+
+#### El Sentido de la Vida:  
+##### Definición de Sentido:  
+El término **sentido** consta de tres acepciones distintas:  
+  1. **Finalidad o dirección**: la vida sirve (o no) para algo.  
+  2. **Significación**: la vida presenta distintas formas de vivir. Por lo general la juventud se relaciona con aventura y vejez, con sabiduría. 
+  3. **Valor**: la vida tiene (o no) un valor.  
+
+##### Tres Respuestas:  
+###### No Hay un Sentido:  
+La vida carece de cualquiera de las acepciones de sentido. Los filósofos que siguen esta respuesta son pesimistas: *Schopenhauer, Sartre, Cioran...*.  
+Este pensamiento de que la vida no tiene sentido se asemeja al *Mito de Sísifo*.  
+
+###### Hay un Sentido Trascendente:  
+La vida tiene un sentido que se halla más allá de la muerte. El sentido se encuentra una vez se muere, pero existe. Las filosofías religiosas comparten este pensamiento. En este caso el sentido consiste en buscar la salvación.  
+###### Hay un Sentido Inmanente:  
+El sentido de la vida está dentro de lapropia vida. Consideran que la existencia tiene finalidad, significado y valor.  
+Marx cree que el sentido de la vida es violento, de lucha colectiva. Nietzsche piensa que cada uno le da el sentido que quiera a la suya, en ese caso, si no se le da sentido, no lo tiene.  
+
+| Sentido | Negación del Sentido | Sentido Inmanente | Sentido Trascendente |
+|---:|:---:|:---:|:---:|
+| **Finalidad** | Sí: supervivencia | Sí | Sí: no en este mundo |
+| **Significado** | No | No | Sí: no en este mundo |
+| **Valor** | No | Sí | Sí: no en este mundo |
