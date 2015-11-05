@@ -5,6 +5,8 @@ Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2016
 
  * [**Tema 1 - La Filosofía**](https://github.com/KaliNuska/Curso_2015-2016/blob/master/Filosofia/Tema%201%20-%20La%20Filosof%C3%ADa.md#tema-1-la-filosof%C3%ADa)  
   [*Versión PDF*]()  
+ * [**Tema 2 - La Metafísica**](Filosofia/Tema%202%20-%20La%20Metaf%C3%ADsica.md)  
+  [*Versión PDF*](https://gitprint.com/KaliNuska/Curso_2015-2016/blob/master/Filosofia/Tema%202%20-%20La%20Metaf%C3%ADsica.md)
 
 #### [Tecnología Industrial](Tecnologia_Industrial):  
   * [**Bloques temáticos**](Tecnologia_Industrial/Bloques Temáticos.md)  
