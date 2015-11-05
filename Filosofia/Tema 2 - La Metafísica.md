@@ -8,10 +8,10 @@
       * [La teoría de las ideas de Platón](#la-teoría-de-las-ideas-de-platón)
       * [El ser de Aristóteles](#el-ser-de-aristóteles)
     2. [La metafísica medieval](#la-metafísica-medieval)
-      * [Esencia y existencia](#)
-      * [El problema de los universales](#)
-    3. [La metafísica moderna](#)
-      * [Las sustancias](#)
+      * [Esencia y existencia](#esencia-y-existencia)
+      * [Los universales](#los-universales)
+    3. [La metafísica moderna](#la-metafísica-moderna)
+      * [Las sustancias](#las-sustancias)
       * [El realismo y la teoría de la representación](#)
         * [El realismo natural](#)
         * [El realismo crítico](#)
@@ -102,3 +102,17 @@ El Siglo `IV` fue el **Siglo de Oro** de la metafísica. Durante ese período **
    Se produce el cambio o movimiento cuando la potencia pasa a acto. Existen 3 tipos de cambios: **Movimiento estricto** (cambio de posición), **movimiento cuantitativo** (incremento del tamaño, puede ser negativo), **movimiento cualitativo** (alteración de un accidente).  Cualquiera de estos cambios conlleva la adición o sustracción de un **atributo**. La substancia entera puede cambiar y pasar de ser `A` a ser `B`, pero conserva su **esencia**.  
 
 #### La Metafísica Medieval:  
+La metafísica del medievo deja de lado el ser corriente y se especifica en el **Ser Supremo**. ***Santo Tomás de Aquino*** es el autor más representativo.  
+
+##### Esencia y Existencia:  
+Hay dos problemas importantes en la metafísica medieval: **Esencia y Existencia**.  
+  * La esencia es la **definición** de un **ente**, es **común** a toda la especie. Incluye **materia** y **forma**. También es **potencia**.  
+  * La existencia es al **acto de ser** de la esencia. Cuando un ser muere deja de existir pero su esencia permanece siendo.  
+
+**Contingencia y Necesidad**: Un ser contingente tiene su existencia separada de su esencia, es decir, puede no existir. Un ser necesario incluye su existencia en su esencia, por lo que no puede no existir. **Dios** es un ser necesario.  
+
+##### Los Universales:  
+**Los Universales**: son **conceptos abstractos** que se refieren a un conjunto global (el ser humano y árbol son universales, mientras que Juan y éste olmo, no). Aquellos que creen que los universales existen son **realistas**:  
+  * **Moderados**: `Aristóteles`, `Santo Tomás`. Los universales existen integrados en las cosas concretas.  
+  * **Radicales**: `Platón`. Los universales existen y son realidades fundamentales. Están fuera de cada ser (*mundo inteligible*).  
+  Los que creen que los universales no existen son **nominalistas**: `Ockham`. Los universales no existen, son solo nombres que mencionan los conjuntos de **individuos**.  
