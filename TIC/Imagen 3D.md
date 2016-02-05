@@ -8,7 +8,7 @@
   * [**Llavero**](#llavero)  
     * [Imágenes](#imagen)  
     * [Enlaces](#descargas)  
-    * [Código](#code_1)  
+    * [Código](#code-1)  
 
 #### Tornillo:
 
