@@ -20,7 +20,7 @@
 
 ## Tinkercad:  
 #### Pieza:  
-> Creado con [Tinkercad](www.tinkercad.com/about/).  
+> Creado con [Tinkercad](https://www.tinkercad.com/about/).  
 
 ##### Vistas:  
 [![Tinkercad - Pieza Vistas](https://i.gyazo.com/df40d505d0cd8273fc7e07ab6fda6be2.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas.png)  
