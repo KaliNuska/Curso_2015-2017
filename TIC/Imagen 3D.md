@@ -23,13 +23,13 @@
 > Creado con [Tinkercad](https://www.tinkercad.com/about/).  
 
 ##### Vistas:  
-[![Tinkercad - Pieza Vistas](https://i.gyazo.com/df40d505d0cd8273fc7e07ab6fda6be2.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas.png)  
-[![Tinkercad - Pieza Vista - Alzado](https://i.gyazo.com/a5f30474b27cb4175ea8d989287f8e6b.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Alzado.png)  
-[![Tinkercad - Pieza Vista - Planta](https://i.gyazo.com/64f4626ba1a4113540a46ff89c35ba75.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Planta.png)  
-[![Tinkercad - Pieza Vista - Perfil izquierdo](https://i.gyazo.com/eea5f2197b9c86efd7c5e93bea24731e.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Perfil_izquierdo.png)  
-[![Tinkercad - Pieza Vista - Perfil derecho](https://i.gyazo.com/34670224c934f9a79a032178d3a7473b.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Perfil_derecho.png)  
-[![Tinkercad - Pieza Vista - Inferior](https://i.gyazo.com/4162364de4ebdd3242273be2dcd35492.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Inferior.png)  
-[![Tinkercad - Pieza Vista - Posterior](https://i.gyazo.com/2b9339b0538680664cb3844886892d94.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Posterior.png)  
+[![Tinkercad - Pieza Vistas](https://i.gyazo.com/df40d505d0cd8273fc7e07ab6fda6be2.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas.png)  
+[![Tinkercad - Pieza Vista - Alzado](https://i.gyazo.com/a5f30474b27cb4175ea8d989287f8e6b.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Alzado.png)  
+[![Tinkercad - Pieza Vista - Planta](https://i.gyazo.com/64f4626ba1a4113540a46ff89c35ba75.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Planta.png)  
+[![Tinkercad - Pieza Vista - Perfil izquierdo](https://i.gyazo.com/eea5f2197b9c86efd7c5e93bea24731e.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Perfil_izquierdo.png)  
+[![Tinkercad - Pieza Vista - Perfil derecho](https://i.gyazo.com/34670224c934f9a79a032178d3a7473b.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Perfil_derecho.png)  
+[![Tinkercad - Pieza Vista - Inferior](https://i.gyazo.com/4162364de4ebdd3242273be2dcd35492.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Inferior.png)  
+[![Tinkercad - Pieza Vista - Posterior](https://i.gyazo.com/2b9339b0538680664cb3844886892d94.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Posterior.png)  
 
 ##### Enlaces:  
 [Tinkercad](https://tinkercad.com/things/eRO5rRBQQYj)  
