@@ -17,6 +17,7 @@ Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2016
 
 #### [TIC](TIC):  
   * [**Piezas de Ordenador**](TIC/Piezas%20de%20ordenador.md#piezas-de-un-ordenador)  
+  * [**Imagen Vectorial**](TIC/Imagen%20Vectorial.md#imagen-vectorial)  
 
 #### [Matemáticas](Matematicas):  
  1. **Trigonometría**:  
