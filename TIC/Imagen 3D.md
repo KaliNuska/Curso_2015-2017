@@ -1,26 +1,53 @@
-## Imagen 3D:
+# Imagen Vectorial:
 ### Tabla de Contenidos:
+ * [**Tinkercad**](#tinkercad)  
+ 	*	[**Pieza**](#pieza)  
+ 		*	[Imágenes](#vistas)  
+ 		*	[Enlaces](#enlaces)  
+ * [**OpenSCAD y OpenJSCAD**](#openscad-y-openjscad)  
+ 	* [**Tornillo**](#tornillo)  
+ 	  * [Imágenes](#vistas-1)  
+ 	  * [Enlaces](#enlaces-1)  
+ 	  * [Código](#code)  
+ 	* [**Llavero**](#llavero)  
+ 	  * [Imágenes](#imagenes)  
+ 	  * [Enlaces](#enlaces-2)  
+ 	  * [Código](#code-1)  
+ *	[**Inkscape**](#inkscape)  
+ 	*	[**Color Picker**](#color-picker)  
+ 		*	[Imágenes](#imagenes-1)  
+ 		*	[Enlaces](#enlaces-3)  
 
-  * [**Tornillo**](#tornillo)  
-    * [Imágenes](#vistas)  
-    * [Enlaces](#descarga)  
-    * [Código](#code)  
-  * [**Llavero**](#llavero)  
-    * [Imágenes](#imagen)  
-    * [Enlaces](#descargas)  
-    * [Código](#code-1)  
+## Tinkercad:  
+#### Pieza:  
+> Creado con [Tinkercad](www.tinkercad.com/about/).  
 
-#### Tornillo:
+##### Vistas:  
+[![Tinkercad - Pieza Vistas](https://i.gyazo.com/df40d505d0cd8273fc7e07ab6fda6be2.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas.png)  
+[![Tinkercad - Pieza Vista - Alzado](https://i.gyazo.com/a5f30474b27cb4175ea8d989287f8e6b.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Alzado.png)  
+[![Tinkercad - Pieza Vista - Planta](https://i.gyazo.com/64f4626ba1a4113540a46ff89c35ba75.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Planta.png)  
+[![Tinkercad - Pieza Vista - Perfil izquierdo](https://i.gyazo.com/eea5f2197b9c86efd7c5e93bea24731e.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Perfil_izquierdo.png)  
+[![Tinkercad - Pieza Vista - Perfil derecho](https://i.gyazo.com/34670224c934f9a79a032178d3a7473b.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Perfil_derecho.png)  
+[![Tinkercad - Pieza Vista - Inferior](https://i.gyazo.com/4162364de4ebdd3242273be2dcd35492.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Inferior.png)  
+[![Tinkercad - Pieza Vista - Posterior](https://i.gyazo.com/2b9339b0538680664cb3844886892d94.png)](https://github.com/KaliNuska/Cusrso_2015-2016/releases/download/TIC/Tinkercad_-_Vistas_-_Posterior.png)  
 
+##### Enlaces:  
+[Tinkercad](https://tinkercad.com/things/eRO5rRBQQYj)  
+[Tinkercad - Pieza.stl](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Pieza.stl)  
+[Tinkercad - Pieza.wrl](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Pieza.wrl)  
+[Tinkercad - Pieza.x3d](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Tinkercad_-_Pieza.x3d)  
+
+## OpenSCAD y OpenJSCAD:  
+#### Tornillo:  
 > Creado con [OpenSCAD](http://www.openscad.org/).  
 
-##### Vistas:
-[![Tornillo Vista - Alzado](https://i.gyazo.com/9efdbd0d8574024faec0fcf734389862.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/3D.-Tornillo_alzado.png)
-[![Tornillo Vista - Perfil](https://i.gyazo.com/e6c9a22ee06593a7adf2688428387459.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/3D.-Tornillo_perfil.png)
-[![Tornillo Vista - Planta](https://i.gyazo.com/79b3ca8334ec30729f928153d46d90b7.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/3D.-Tornillo_planta.png)
+##### Vistas:  
+[![OpenSCAD - Tornillo Vista - Alzado](https://i.gyazo.com/9efdbd0d8574024faec0fcf734389862.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenSCAD_-_Vistas_-_Alzado.png)
+[![OpenSCAD - Tornillo Vista - Perfil](https://i.gyazo.com/e6c9a22ee06593a7adf2688428387459.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenSCAD_-_Vistas_-_Perfil_izquierdo.png)
+[![OpenSCAD - Tornillo Vista - Planta](https://i.gyazo.com/79b3ca8334ec30729f928153d46d90b7.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenSCAD_-_Vistas_-_Planta.png)
 
-##### Descarga:
-[Tornillo.scad](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/3D.-Tornillo.scad)
+##### Enlaces:
+[OpenSCAD - Tornillo.scad](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenSCAD_-_Tornillo_y_Tuerca.scad)
 
 ##### Code:
 ```C++
@@ -337,18 +364,17 @@ module trapezoidNut(
   );
 ```  
   
-### Llavero:
-
+#### Llavero:
 > Creado con [OpenJSCAD](http://openjscad.org/).  
 
-##### Imagen:
-[![Llavero](http://i.imgur.com/Q3VBYCs.png)](http://i.imgur.com/Q3VBYCs.png)  
+##### Imagenes:
+[![OpenJSCAD - Llavero](http://i.imgur.com/Q3VBYCs.png)](http://i.imgur.com/Q3VBYCs.png)  
 
-##### Descargas:
-[Llavero.jscad](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/3D.-Llavero.jscad)  
-[Llavero.stl](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/3D.-Llavero.stl)  
-[Llavero_ASCII.stl](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Llavero_ASCII.stl)  
-[Llavero.x3d](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Llavero.x3d)  
+##### Enlaces:
+[OpenJSCAD - Llavero.jscad](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenJSCAD_-_Llavero.jscad)  
+[OpenJSCAD - Llavero.stl](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenJSCAD_-_Llavero.stl)  
+[OpenJSCAD - Llavero_ASCII.stl](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenJSCAD_-_Llavero_ASCII.stl)  
+[OpenJSCAD - Llavero.x3d](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/OpenJSCAD_-_Llavero.x3d)  
 
 ##### Code:
 ```javascript
@@ -419,3 +445,17 @@ function main() {
   ).scale(1);
 }
 ```
+
+## Inkscape:  
+#### Color Picker:  
+> Creado con [Inkscape](https://inkscape.org/).  
+
+##### Imagenes:  
+[![Color Picker](https://i.gyazo.com/cc92b9a28dd1c82cf8b5c6772d6758cc.png)](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Inkscape_-_Color_Picker.png)  
+ 
+##### Enlaces:  
+[Inkscape - Color Picker.svg](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Inkscape_-_Color_Picker.svg)  
+[Inkscape - Color Picker optimizado.svg](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Inkscape_-_Color_Picker_optimizado.svg)  
+[Inkscape - Color Picker plano.svg](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Inkscape_-_Color_Picker_plano.svg)  
+[Inkscape - Color Picker.pdf](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Inkscape_-_Color_Picker.pdf)  
+[Inkscape - Color Picker.png](https://github.com/KaliNuska/Curso_2015-2016/releases/download/TIC/Inkscape_-_Color_Picker.png)  
