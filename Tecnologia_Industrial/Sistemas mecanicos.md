@@ -15,3 +15,6 @@ El torno es un sistema mecánico simple que se compone de un cilindro y una mani
 La fuerza se aplica en el extremo de la manivela de forma que el brazo de giro será el radio de la misma, mientras que el brazo resistente equivale al radio del cilindro. Hay mayor ventaja mecánica cuanto mayor sea la diferencia entre el radio de la manivela y el del cilndro, de forma que se cumple la siguiente ecuación:  
 
  `Fm · bm = Fr · br` ➜ `Fm · R = Fr · r` ➜ `Fm = Fm · R / r`
+
+[](http://web.archive.org/web/20120128103247/http:/www.netcom.es/pepetec/sistemasmecanicos.html)
+[](https://tecnoapostol.wordpress.com/2012/01/30/torno-manivela/)
