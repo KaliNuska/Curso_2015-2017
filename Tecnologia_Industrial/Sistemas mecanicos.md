@@ -16,5 +16,5 @@ La fuerza se aplica en el extremo de la manivela de forma que el brazo de giro s
 
  `Fm · bm = Fr · br` ➜ `Fm · R = Fr · r` ➜ `Fm = Fm · R / r`
 
-[](http://web.archive.org/web/20120128103247/http:/www.netcom.es/pepetec/sistemasmecanicos.html)
-[](https://tecnoapostol.wordpress.com/2012/01/30/torno-manivela/)
+[http://web.archive.org/web/20120128103247/http:/www.netcom.es/pepetec/sistemasmecanicos.html]("http://web.archive.org/web/20120128103247/http:/www.netcom.es/pepetec/sistemasmecanicos.html")
+[https://tecnoapostol.wordpress.com/2012/01/30/torno-manivela/]("https://tecnoapostol.wordpress.com/2012/01/30/torno-manivela/")
