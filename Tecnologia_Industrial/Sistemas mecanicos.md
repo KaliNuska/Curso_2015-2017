@@ -14,4 +14,4 @@ Estas cinco grandes máquinas simples eran: **el plano inclinado**, **la cuña**
 El torno es un sistema mecánico simple que se compone de un cilindro y una manivela. Permite levantar un cuerpo pesado haciendo menos fuerza. Su funcionamiento es muy similar al de la palanca, pero al realizar un movimiento de giro alrededor del eje, se puede mover tanto como se desee ya que no está limitado por ningún plano ni fulcro con el que golpee.  
 La fuerza se aplica en el extremo de la manivela de forma que el brazo de giro será el radio de la misma, mientras que el brazo resistente equivale al radio del cilindro. Hay mayor ventaja mecánica cuanto mayor sea la diferencia entre el radio de la manivela y el del cilndro, de forma que se cumple la siguiente ecuación:  
 
- `Fm · bm = Fr · br` → `Fm · R = Fr · r` → `Fm = Fm · R / r`
+ `Fm · bm = Fr · br` ➜ `Fm · R = Fr · r` ➜ `Fm = Fm · R / r`
