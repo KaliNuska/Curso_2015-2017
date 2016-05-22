@@ -1,10 +1,4 @@
-## Sistemas Mecánicos:
-### Introducción:  
-Los grandes filósofos de la antigüedad llamaban a las máquinas simples “las cinco grandes”.
-Estas cinco grandes máquinas simples eran: **el plano inclinado**, **la cuña**, **el tornillo**, **la palanca** y **la rueda**.  
-**La rueda** - el primero en sistematizar la rueda y en exponer su funcionamiento fue Arquímedes (287-212 a.C). A él son debidos el conocimiento de la polea compuesta, la teoría de la palanca y el tornillo sinfín empleado para elevar agua de un cauce, procedimiento que aún hoy se conoce como “tornillo de Arquímedes”.  
-En Persia se tiene noticia de la utilización de la rueda hidráulica desde hace más de 2500 años, de la rueda, que fue empleada como motor y ampliamente desarrollada por los romanos. En el libro De Architectura, Vitrubio, en el siglo I a.C, describe pormenorizada y minuciosamente su funcionamiento, siendo una máquina que aprovecha eficazmente la energía del viento o la fuerza de un cauce de agua fluyente. Su utilización se ha mantenido ampliamente hasta bien entrado el siglo XIX.
-
+# Sistemas Mecánicos:
 ## Transmisión del movimiento giratorio entre ejes paralelos:  
 ### Ruedas de fricción:  
 ![](http://img.prntscr.com/img?url=http://i.imgur.com/kMZZUoE.png) ![](http://raultecnologia.files.wordpress.com/2009/03/friccion.gif?w=450)  
@@ -45,8 +39,16 @@ La ecuación de la carrera de este mecanismo es la siguiente:
 
 ## Transformación del movimiento giratorio en lineal continuo:  
 ### Manivela-torno:  
-![](http://img.prntscr.com/img?url=http://i.imgur.com/t4hT59O.png)   [![](http://i.imgur.com/14U0P1Xl.jpg)]("https://youtu.be/sJOiZTtbmL0")  
+![](http://img.prntscr.com/img?url=http://i.imgur.com/t4hT59O.png)[![Enlace al vídeo](http://i.imgur.com/14U0P1Xl.jpg)]("https://youtu.be/sJOiZTtbmL0")  
+*Haz clic en la imagen para acceder al vídeo.*  
 El torno es un sistema mecánico simple que se compone de un cilindro y una manivela. Permite levantar un cuerpo pesado haciendo menos fuerza. Su funcionamiento es muy similar al de la palanca, pero al realizar un movimiento de giro alrededor del eje, se puede mover tanto como se desee ya que no está limitado por ningún plano ni fulcro con el que golpee.  
 La fuerza se aplica en el extremo de la manivela de forma que el brazo de giro será el radio de la misma, mientras que el brazo resistente equivale al radio del cilindro. Hay mayor ventaja mecánica cuanto mayor sea la diferencia entre el radio de la manivela y el del cilndro, de forma que se cumple la siguiente ecuación:  
 > `Fm · bm = Fr · br` ➜ `Fm · R = Fr · r` ➜ `Fm = Fm · R / r`  
 
+## Transformación del movimiento giratorio en oscilante:  
+### Leva:  
+![](http://img.prntscr.com/img?url=http://i.imgur.com/sS3bmbG.png)    ![](https://tecnologiascp.files.wordpress.com/2014/03/leva1.gif?w=176&h=300)  
+Este mecansimo permite obtener un movimiento lineal oscilante a partir de un movimiento de rotación, pero no al contrario, ya que no es reversible.  
+Está formado por una leva y un seguidor y, dependiendo de si queremos que el movimiento de salida sea oscilante u alternativo, una palanca o un émbolo, respectivamente.  
+El diseño de la leva varía en función de lo que se quiera conseguir mediante el seguidor. Es empleado, por ejemplo, en los motores de los automóviles para la apertura y el cierre de las válvulas.  
+Antes de existir los procesadores lógicos, estos mecanismos se empleaban para esa función ya que, con un diseño del perfil en el que el seguidor de un "salto", se pueden conseguir comportamientos muy similares.  
