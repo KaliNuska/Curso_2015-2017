@@ -40,7 +40,7 @@ La ecuación de la carrera de este mecanismo es la siguiente:
 ## Transformación del movimiento giratorio en lineal continuo:  
 ### Manivela-torno:  
 ![](http://img.prntscr.com/img?url=http://i.imgur.com/t4hT59O.png)![](http://i.imgur.com/14U0P1Xl.jpg)  
-[*Haz clic aquí para acceder al vídeo.*]("https://youtu.be/sJOiZTtbmL0")  
+[Haz clic aquí para acceder al vídeo.](https://youtu.be/sJOiZTtbmL0)  
 El torno es un sistema mecánico simple que se compone de un cilindro y una manivela. Permite levantar un cuerpo pesado haciendo menos fuerza. Su funcionamiento es muy similar al de la palanca, pero al realizar un movimiento de giro alrededor del eje, se puede mover tanto como se desee ya que no está limitado por ningún plano ni fulcro con el que golpee.  
 La fuerza se aplica en el extremo de la manivela de forma que el brazo de giro será el radio de la misma, mientras que el brazo resistente equivale al radio del cilindro. Hay mayor ventaja mecánica cuanto mayor sea la diferencia entre el radio de la manivela y el del cilndro, de forma que se cumple la siguiente ecuación:  
 > `Fm · bm = Fr · br` ➜ `Fm · R = Fr · r` ➜ `Fm = Fm · R / r`  
