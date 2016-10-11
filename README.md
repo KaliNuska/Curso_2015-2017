@@ -1,12 +1,12 @@
-# Curso 2015/2016:  
-Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2016/blob/master/README.md "Índice") completo de recursos que contiene el [repositorio](https://github.com/KaliNuska/Curso_2015-2016 "Curso 2015/2016"):  
+# Curso 2015/2017:  
+Aquí se encuentra el [**Índice**](https://github.com/KaliNuska/Curso_2015-2017/blob/master/README.md "Índice") completo de recursos que contiene el [repositorio](https://github.com/KaliNuska/Curso_2015-2017 "Curso 2015/2017"):  
 ### Índice:  
-#### [Filosofía](https://github.com/KaliNuska/Curso_2015-2016/tree/master/Filosofia):  
+#### [Filosofía](https://github.com/KaliNuska/Curso_2015-2017/tree/master/Filosofia):  
 
- * [**Tema 1 - La Filosofía**](https://github.com/KaliNuska/Curso_2015-2016/blob/master/Filosofia/Tema%201%20-%20La%20Filosof%C3%ADa.md#tema-1-la-filosof%C3%ADa)  
+ * [**Tema 1 - La Filosofía**](https://github.com/KaliNuska/Curso_2015-2017/blob/master/Filosofia/Tema%201%20-%20La%20Filosof%C3%ADa.md#tema-1-la-filosof%C3%ADa)  
   [*Versión PDF*]()  
  * [**Tema 2 - La Metafísica**](Filosofia/Tema%202%20-%20La%20Metaf%C3%ADsica.md)  
-  [*Versión PDF*](https://gitprint.com/KaliNuska/Curso_2015-2016/blob/master/Filosofia/Tema%202%20-%20La%20Metaf%C3%ADsica.md)
+  [*Versión PDF*](https://gitprint.com/KaliNuska/Curso_2015-2017/blob/master/Filosofia/Tema%202%20-%20La%20Metaf%C3%ADsica.md)
  * [**Antropología: Naturaleza y Cultura**](Filosofia/Antropologia-Naturaleza_y_Cultura.docx)  
   [*Versión PDF*](Filosofia/Antropologia-Naturaleza_y_Cultura.pdf)
 
