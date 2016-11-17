@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+<!--<script type="text/javascript">var _cd_options = { theme: 'dark' };</script>!-->
+<!--<script src="https://www.savenetneutrality.eu/widget.js"></script>!-->
+    <head>
+        <meta charset="UTF-8">
+        <link href="https://fonts.googleapis.com/css?family=Nova+Flat|Orbitron|Architects+Daughter" rel="stylesheet"> 
+        <style>
+            body {
+                margin-bottom: 15px;
+                font-family: Nova Flat, cursive;
+            }
+            h1, h2 {
+                font-family: Orbitron, sans-serif;
+                padding: 10px 3% 5px 5%;
+                text-decoration: underline;
+                font-weight: bold;
+                font-variant: small-caps;
+                margin: 0 4%;
+            }
+            h1 {
+                text-align: center;
+                color: cadetblue;
+                font-size: 200%;
+                background-color: palegoldenrod;
+                border-radius: 20px;
+            }
+            h2 {
+                color: teal;
+                font-size: 150%;
+            }
+            p {
+                font-family: Nova Flat, cursive;
+                padding: 2px 3% 0px 3%;
+                margin: 10px 4%;
+            }
+            table {
+                margin-top: 7px;
+                font-family: Architects Daughter, cursive;
+                border: 2px solid teal;
+                border-radius: 4px;
+            }
+            th {
+                background-color: palegoldenrod;
+                outline: 1px solid palegoldenrod;
+            }
+            td, tr {
+                outline: 1px solid cadetblue;
+                padding: 1px 30px 2px;
+            }
+            a {text-decoration: underline;}
+            code {
+                background-color: indianred;
+                outline: 1px solid teal;
+                padding: 0 3px;
+            }
+            code:hover {
+                font-weight: bold;
+                outline: 2px solid teal;
+            }
+            blockquote {
+                border-left: 2px solid cadetblue;
+                padding: 10px 60px 8px 30px;
+                background-color: indianred;
+                border-radius: 5px;
+                border-top-right-radius: 20px;
+                margin: 0 7%;
+            }
+            li {
+                margin: 4px 0;
+            }
+            hr {
+                margin: 15px 7% 10px 7%;
+                height: 8px;
+                border-style: solid;
+                border-color: teal;
+                border-radius: 5px;
+                border-width: 4px 2px 4px 2px;
+                border-style: solid;
+            }
+            #WELCOME {
+                border-left: 30px solid cadetblue;
+                border-right: 20px solid cadetblue;
+                border-radius: 15px;
+                font-variant: small-caps;
+            }
+            #WELCOME:hover {
+                letter-spacing: 1px;
+                border-left: 35px solid cadetblue;
+                border-right: 25px solid cadetblue;
+                border-radius: 20px;
+            }
+            #indianred {color: indianred;}
+            #salmon {color: salmon;}
+            #palegoldenrod {color: palegoldenrod;}
+            #cadetblue {color: cadetblue;}
+            #teal {color: teal;}
+        </style>
+        <!-- COLORS: indianred, salmon, palegoldenrod, cadetblue, teal. !-->
+        <title>Mi web</title>
+    </head>
+    <body bgcolor="salmon">
+        <div style="margin: 0px -1%">
+            <a id="bienvenida" class="anchor"></a><p id="WELCOME" style="color: palegoldenrod; font-family: Orbitron, sans-serif; font-size: 2em; font-weight: bold; padding: 4px 5% 6px; text-align: center; background-color: teal;">Bienvenido a mi Página sobre HTML</p>
+        </div>
+        <h1>
+            <a id="contenido" class="anchor"></a>
+            <font align="center">Contenido común de una página HTML</font>
+        </h1>
+        <p align="justify">Esta es una página de ejemplo. El texto que viene a continuación se emplea para rellenar espacios que todavía no contienen la información definitiva.<br>Proviene de un texto escrito en latín y se ha hecho popular en el diseño web porque permite que el lector de la página pueda ver el aspecto de la página completa sin detenerse en leer el texto, pues le resultaría una distracción.<br>
+            <blockquote style="text-align: justify;"><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</i></blockquote>
+            <p>Puedes encontrar más información aquí: <a href="http://es.lipsum.com/" target="_blank">es.lipsum.com</a>.</p>
+            </p>
+        <h1><a id="barra" class="anchor"></a>Barra horizontal</h1>
+        <p>Se emplea como separador del contenido de la página HTML:</p>
+        <hr>
+        <h1><a id="indice" class="anchor"></a>Índice de la página HTML</h1>
+        <p>Habitualmente se emplea el bloque <i>blockquote</i> con el fin de crear una lista que organice el contenido de una página web. Esta lista contiene los enlaces a cada apartado dentro de la página:</p>
+        <blockquote>
+            <ol>
+                <a href="#bienvenida">Bienvenida</a>
+                <li><a href="#contenido">Contenido común de una página HTML</a></li>
+                <li><a href="#barra">Barra horizontal</a></li>
+                <li><a href="#indice">Índice de la página HTML</a></li>
+                <li><a href="#tablas">Tablas en HTML</a></li>
+                <li><a href="#imagenes">Inserción de imágenes</a></li>
+                <li>Subíndices:<br>
+                    <ul>
+                        <li><a href="#creditos">Créditos</a></li>
+                        <li><a href="#licencia">Licencia</a></li>
+                    </ul>
+                </li>
+            </ol>
+        </blockquote><br>
+        <h1><a id="tablas" class="anchor"></a>Tablas en HTML</h1>
+        <table style="margin-left: 15%">
+            <caption><b>Tabla de calificaciones</b></caption>
+            <thead>
+                <tr>
+                    <th>Alumno 1</th>
+                    <th>Alumno 2</th>
+                    <th>Alumno 3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>8.5</code></td>
+                    <td><code>7.3</code></td>
+                    <td><code>6.1</code></td>
+                </tr>
+                <tr>
+                    <td><code>5.0</code></td>
+                    <td><code>7.3</code></td>
+                    <td><code>9.6</code></td>
+                </tr>
+                <tr>
+                    <td><code>9.5</code></td>
+                    <td><code>8.75</code></td>
+                    <td><code>8.0</code></td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td><code>7.7</code></td>
+                    <td><code>7.8</code></td>
+                    <td><code>7.9</code></td>
+                </tr>
+            </tfoot>
+        </table>
+        <table style="margin-left: 10%">
+            <caption><b>Tabla de costes</b></caption>
+            <thead>
+                <tr>
+                    <th><b>Concepto</b></th>
+                    <th><b>Coste unitario</b></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Diseño del producto</td>
+                    <td><code>5 €</code></td>
+                </tr>
+                <tr>
+                    <td>Primera campaña de promoción</td>
+                    <td><code>15 €</code></td>
+                </tr>
+                <tr>
+                    <td>Segunda campaña de promoción</td>
+                    <td><code>12 €</code></td>
+                </tr>
+                <tr>
+                    <td>Venta del producto</td>
+                    <td><code>2 €</code></td>
+                </tr>
+                <tr>
+                    <td>Impuestos aplicables</td>
+                    <td><code>11.7579 €</code></td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>TOTAL</td>
+                    <td><code>55.99 €</code></td>
+                </tr>
+            </tfoot>
+        </table>
+        <br>
+        <h1><a id="imagenes" class="anchor"></a>Inserción de imágenes</h1>
+<!-- !-->
+        <hr>
+        <h2><a id="creditos" class="anchor"></a>Créditos</h2>
+            <p>Este proyecto ha sido elaborado por <a href="https://github.com/KaliNuska" target="_blank"><abbr title="Abre el enlace en una pestaña nueva">Javier Pacheco</abbr></a>.</p>
+        <h2><a id="licencia" class="anchor" href="#licencia" aria-hidden="true"></a>Licencia</h2>
+        <p align="center">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.">
+                <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.">
+            </a>
+            <br>
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.">
+                <i>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</i>
+            </a>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,204 @@
+HTML TAG REFERENCE:
+------------------
+
+# Basic HTML:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <!DOCTYPE>   |     | Defines the document type                                                                           |
+| <html>       |     | Defines an HTML document                                                                            |
+| <title>      |     | Defines a title for the document                                                                    |
+| <body>       |     | Defines the document's body                                                                         |
+| <h1> to <h6> |     | Defines HTML headings                                                                               |
+| <p>          |     | Defines a paragraph                                                                                 |
+| <br>         |     | Inserts a single line break                                                                         |
+| <hr>         |     | Defines a thematic change in the content                                                            |
+| <!--...-->   |     | Defines a comment                                                                                   |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+
+# Formatting:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <acronym>    | NO  | Defines an acronym                                                                              (1) |
+| <abbr>       |     | Defines an abbreviation or an acronym                                                               |
+| <address>    |     | Defines contact information for the author/owner of a document/article                              |
+| <b>          |     | Defines bold text                                                                                   |
+| <bdi>        | NEW | Isolates a part of text that might be formatted in a different direction from other text outside it |
+| <bdo>        |     | Overrides the current text direction                                                                |
+| <big>        | NO  | Defines big text                                                                                (2) |
+| <blockquote> |     | Defines a section that is quoted from another source                                                |
+| <center>     | NO  | Defines centered text                                                                           (3) |
+| <cite>       |     | Defines the title of a work                                                                         |
+| <code>       |     | Defines a piece of computer code                                                                    |
+| <del>        |     | Defines text that has been deleted from a document                                                  |
+| <dfn>        |     | Represents the defining instance of a term                                                          |
+| <em>         |     | Defines emphasized text                                                                             |
+| <font>       | NO  | Defines font, color, and size for text                                                          (4) |
+| <i>          |     | Defines a part of text in an alternate voice or mood                                                |
+| <ins>        |     | Defines a text that has been inserted into a document                                               |
+| <kbd>        |     | Defines keyboard input                                                                              |
+| <mark>       | NEW | Defines marked/highlighted text                                                                     |
+| <meter>      | NEW | Defines a scalar measurement within a known range (a gauge)                                         |
+| <pre>        |     | Defines preformatted text                                                                           |
+| <progress>   | NEW | Represents the progress of a task                                                                   |
+| <q>          |     | Defines a short quotation                                                                           |
+| <rp>         | NEW | Defines what to show in browsers that do not support ruby annotations                               |
+| <rt>         | NEW | Defines an explanation/pronunciation of characters (for East Asian typography)                      |
+| <ruby>       | NEW | Defines a ruby annotation (for East Asian typography)                                               |
+| <s>          |     | Defines text that is no longer correct                                                              |
+| <samp>       |     | Defines sample output from a computer program                                                       |
+| <small>      |     | Defines smaller text                                                                                |
+| <strike>     | NO  | Defines strikethrough text                                                                      (5) |
+| <strong>     |     | Defines important text                                                                              |
+| <sub>        |     | Defines subscripted text                                                                            |
+| <sup>        |     | Defines superscripted text                                                                          |
+| <time>       | NEW | Defines a date/time                                                                                 |
+| <tt>         | NO  | Defines teletype text                                                                           (6) |
+| <u>          |     | Defines text that should be stylistically different from normal text                                |
+| <var>        |     | Defines a variable                                                                                  |
+| <wbr>        | NEW | Defines a possible line-break                                                                       |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Forms and Input:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <form>       |     | Defines an HTML form for user input                                                                 |
+| <input>      |     | Defines an input control                                                                            |
+| <textarea>   |     | Defines a multiline input control (text area)                                                       |
+| <button>     |     | Defines a clickable button                                                                          |
+| <select>     |     | Defines a drop-down list                                                                            |
+| <optgroup>   |     | Defines a group of related options in a drop-down list                                              |
+| <option>     |     | Defines an option in a drop-down list                                                               |
+| <label>      |     | Defines a label for an <input> element                                                              |
+| <fieldset>   |     | Groups related elements in a form                                                                   |
+| <legend>     |     | Defines a caption for a <fieldset> element                                                          |
+| <datalist>   | NEW | Specifies a list of pre-defined options for input controls                                          |
+| <keygen>     | NEW | Defines a key-pair generator field (for forms)                                                      |
+| <output>     | NEW | Defines the result of a calculation                                                                 |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Frames:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <frame>      | NO  | Defines a window (a frame) in a frameset                                                            |
+| <frameset>   | NO  | Defines a set of frames                                                                             |
+| <noframes>   | NO  | Defines an alternate content for users that do not support frames                                   |
+| <iframe>     |     | Defines an inline frame                                                                             |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Images:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <img>        |     | Defines an image                                                                                    |
+| <map>        |     | Defines a client-side image-map                                                                     |
+| <area>       |     | Defines an area inside an image-map                                                                 |
+| <canvas>     | NEW | Used to draw graphics, on the fly, via scripting (usually JavaScript)                               |
+| <figcaption> | NEW | Defines a caption for a <figure> element                                                            |
+| <figure>     | NEW | Specifies self-contained content                                                                    |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Audio / Video:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <audio>      | NEW | Defines sound content                                                                               |
+| <source>     | NEW | Defines multiple media resources for media elements (<video> and <audio>)                           |
+| <track>      | NEW | Defines text tracks for media elements (<video> and <audio>)                                        |
+| <video>      | NEW | Defines a video or movie                                                                            |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Links:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <a>          |     | Defines a hyperlink                                                                                 |
+| <link>       |     | Defines the relationship between a document and an external resource                                |
+| <nav>        | NEW | Defines navigation links                                                                            |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Lists:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <ul>         |     | Defines an unordered list                                                                           |
+| <ol>         |     | Defines an ordered list                                                                             |
+| <li>         |     | Defines a list item                                                                                 |
+| <dir>        | NO  | Defines a directory list                                                                        (7) |
+| <dl>         |     | Defines a description list                                                                          |
+| <dt>         |     | Defines a term/name in a description list                                                           |
+| <dd>         |     | Defines a description of a term/name in a description list                                          |
+| <menu>       |     | Defines a list/menu of commands                                                                     |
+| <menuitem>   | NEW | Defines a command/menu item that the user can invoke from a popup menu                              |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Tables:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <table>      |     | Defines a table                                                                                     |
+| <caption>    |     | Defines a table caption                                                                             |
+| <th>         |     | Defines a header cell in a table                                                                    |
+| <tr>         |     | Defines a row in a table                                                                            |
+| <td>         |     | Defines a cell in a table                                                                           |
+| <thead>      |     | Groups the header content in a table                                                                |
+| <tbody>      |     | Groups the body content in a table                                                                  |
+| <tfoot>      |     | Groups the footer content in a table                                                                |
+| <col>        |     | Specifies column properties for each column within a <colgroup> element                             |
+| <colgroup>   |     | Specifies a group of one or more columns in a table for formatting                                  |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Styles and Semantics:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <style>      |     | Defines style information for a document                                                            |
+| <div>        |     | Defines a section in a document                                                                     |
+| <span>       |     | Defines a section in a document                                                                     |
+| <header>     | NEW | Defines a header for a document or section                                                          |
+| <footer>     | NEW | Defines a footer for a document or section                                                          |
+| <main>       | NEW | Specifies the main content of a document                                                            |
+| <section>    | NEW | Defines a section in a document                                                                     |
+| <article>    | NEW | Defines an article                                                                                  |
+| <aside>      | NEW | Defines content aside from the page content                                                         |
+| <details>    | NEW | Defines additional details that the user can view or hide                                           |
+| <dialog>     | NEW | Defines a dialog box or window                                                                      |
+| <summary>    | NEW | Defines a visible heading for a <details> element                                                   |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Meta Info:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <head>       |     | Defines information about the document                                                              |
+| <meta>       |     | Defines metadata about an HTML document                                                             |
+| <base>       |     | Specifies the base URL/target for all relative URLs in a document                                   |
+| <basefont>   | NO  | Specifies a default color, size, and font for all text in a document                            (8) |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Programming:
+ ______________ _____ _____________________________________________________________________________________________________ 
+|     Tag      |HTML5|                                             Description                                             |
+|:-------------|:---:|:----------------------------------------------------------------------------------------------------|
+| <script>     |     | Defines a client-side script                                                                        |
+| <noscript>   |     | Defines an alternate content for users that do not support client-side scripts                      |
+| <applet>     | NO  | Defines an embedded applet                                                                      (9) |
+| <embed>      | NEW | Defines a container for an external (non-HTML) application                                          |
+| <object>     |     | Defines an embedded object                                                                          |
+| <param>      |     | Defines a parameter for an object                                                                   |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾ ‾‾‾‾‾ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
+# Notes:
+(1): Use <abbr> instead.
+(2): Use CSS instead.
+(3): Use CSS instead.
+(4): Use CSS instead.
+(5): Use <del> or <s> instead.
+(6): Use CSS instead.
+(7): Use <ul> instead.
+(8): Use CSS instead.
+(9): Use <embed> or <object> instead.
