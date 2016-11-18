@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 <!--<script type="text/javascript">var _cd_options = { theme: 'dark' };</script>!-->
 <!--<script src="https://www.savenetneutrality.eu/widget.js"></script>!-->
     <head>
@@ -25,6 +24,7 @@
                 font-size: 200%;
                 background-color: palegoldenrod;
                 border-radius: 20px;
+                box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.3), 0 4px 15px 0 rgba(0, 0, 0, 0.4);
             }
             h2 {
                 color: teal;
@@ -59,6 +59,12 @@
                 font-weight: bold;
                 outline: 2px solid teal;
             }
+            img {
+                 filter: grayscale(30%);
+            }
+            img:hover {
+                 filter: grayscale(00%);
+            }
             blockquote {
                 border-left: 2px solid cadetblue;
                 padding: 10px 60px 8px 30px;
@@ -78,18 +84,22 @@
                 border-radius: 5px;
                 border-width: 4px 2px 4px 2px;
                 border-style: solid;
+                box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 3px 10px 0 rgba(0, 0, 0, 0.4);
             }
             #WELCOME {
                 border-left: 30px solid cadetblue;
                 border-right: 20px solid cadetblue;
                 border-radius: 15px;
                 font-variant: small-caps;
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 10px 0 rgba(0, 0, 0, 0.4);
+                margin: 25px 3%;
             }
             #WELCOME:hover {
                 letter-spacing: 1px;
                 border-left: 35px solid cadetblue;
                 border-right: 25px solid cadetblue;
                 border-radius: 20px;
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.6);
             }
             #indianred {color: indianred;}
             #salmon {color: salmon;}
@@ -101,7 +111,7 @@
         <title>Mi web</title>
     </head>
     <body bgcolor="salmon">
-        <div style="margin: 0px -1%">
+        <div>
             <a id="bienvenida" class="anchor"></a><p id="WELCOME" style="color: palegoldenrod; font-family: Orbitron, sans-serif; font-size: 2em; font-weight: bold; padding: 4px 5% 6px; text-align: center; background-color: teal;">Bienvenido a mi Página sobre HTML</p>
         </div>
         <h1>
@@ -116,7 +126,7 @@
         <p>Se emplea como separador del contenido de la página HTML:</p>
         <hr>
         <h1><a id="indice" class="anchor"></a>Índice de la página HTML</h1>
-        <p>Habitualmente se emplea el bloque <i>blockquote</i> con el fin de crear una lista que organice el contenido de una página web. Esta lista contiene los enlaces a cada apartado dentro de la página:</p>
+        <p>Habitualmente se emplea el bloque <code>&lt;blockquote&gt;</code> con el fin de crear una lista que organice el contenido de una página web. Esta lista contiene los enlaces a cada apartado dentro de la página:</p>
         <blockquote>
             <ol>
                 <a href="#bienvenida">Bienvenida</a>
@@ -125,6 +135,8 @@
                 <li><a href="#indice">Índice de la página HTML</a></li>
                 <li><a href="#tablas">Tablas en HTML</a></li>
                 <li><a href="#imagenes">Inserción de imágenes</a></li>
+                <li><a href="#audio">Reproducción de audio de fondo</a></li>
+                <li><a href="#video">Vídeo insertado desde YouTube</a></li>
                 <li>Subíndices:<br>
                     <ul>
                         <li><a href="#creditos">Créditos</a></li>
@@ -207,11 +219,35 @@
         </table>
         <br>
         <h1><a id="imagenes" class="anchor"></a>Inserción de imágenes</h1>
-<!-- !-->
+        <br>
+        <p>Las imágenes se insertan con la etiqueta <code>&lt;a&gt;</code>. La siguiente imagen se encuentra almacenada en el directorio <i>media</i> de la página web.
+        <br>
+        Al hacer click en ella, te dirigirá a un página externa con importante información sobre HTML5:</p>
+        <a href="https://www.w3.org/TR/html5/Overview.html#contents" target="_blank">
+            <img src="IMG\future.png" alt="He visto el futuro, está dentro de mi navegador." style="display: block; border-radius: 20px; max-width: 50%; height: auto; margin: auto; box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.3), 2px 6px 20px 4px rgba(0, 0, 0, 0.4);">
+        </a>
+        <br>
+        <h1><a id="audio" class="anchor"></a>Reproducción de audio de fondo</h1>
+        <br>
+        <p>Utiliza los controles de audio para reproducir y configurar tu experiencia sonora en esta página:</p>
+        <div align="center">
+            <audio loop autoplay controls>
+                <source src="MEDIA\Hall.mp3" type="audio/mpeg">
+                Por favor, utiliza otro navegador para reproducir el audio.
+            </audio>
+        </div>
+        <br>
+        <h1><a id="video" class="anchor"></a>Vídeo insertado desde YouTube</h1>
+        <br>
+        <div align="center">
+            <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/6YpSZ_fHGU0&vq=hd1080" frameborder="0" allowfullscreen></iframe>
+        </div>
         <hr>
-        <h2><a id="creditos" class="anchor"></a>Créditos</h2>
-            <p>Este proyecto ha sido elaborado por <a href="https://github.com/KaliNuska" target="_blank"><abbr title="Abre el enlace en una pestaña nueva">Javier Pacheco</abbr></a>.</p>
-        <h2><a id="licencia" class="anchor" href="#licencia" aria-hidden="true"></a>Licencia</h2>
+    </body>
+    <footer style="background-color: indianred; border-radius: 10px; margin: 0 10% 0 10%;">
+        <h2 align="center"><a id="creditos" class="anchor"></a>Créditos</h2>
+            <p align="center">Este proyecto ha sido elaborado por <a href="https://github.com/KaliNuska" target="_blank"><abbr title="Abre el enlace en una pestaña nueva">Javier Pacheco</abbr></a>.</p>
+        <h2 align="center"><a id="licencia" class="anchor" href="#licencia" aria-hidden="true"></a>Licencia</h2>
         <p align="center">
             <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.">
                 <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.">
@@ -221,5 +257,6 @@
                 <i>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</i>
             </a>
         </p>
-    </body>
+    </footer>
+    <a href="#top" title="Volver arriba"><img src="IMG\flecha.png" alt="Volver arriba" align="right" style="margin-top: -40px; margin-right: 2%; margin-bottom: 5px;"></a>
 </html>
