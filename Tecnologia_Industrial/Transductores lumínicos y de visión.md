@@ -20,7 +20,15 @@ Un sensor es un transductor que se utiliza para medir una variable física del e
  * Fotorresistencias
  * Fotodiodos
  * Fototransistores
- * 
+ * Sensores ópticos
+  * Sensores de proximidad:
+  * Sensor Fotoeléctrico de Barrera
+   ![](http://i.imgur.com/yL67fZJ.png)  
+   ![](http://i.imgur.com/UXGZ66e.png)  
+  * Sensor Fotoeléctrico de Retroreflexión
+  * Sensor Fotoeléctrico Reflectivo Difuso
+   ![](http://i.imgur.com/HthE5bX.png)  
+  * 
 ## Transductores de visión
  * *Procesamiento por píxeles*
  * Cámaras mediante CCD () [](https://commons.wikimedia.org/wiki/File:Delta-Doped_Charged_Coupled_Devices_(CCD)_for_Ultra-Violet_and_Visible_Detection.jpg)
