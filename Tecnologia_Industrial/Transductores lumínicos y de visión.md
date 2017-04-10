@@ -2,7 +2,8 @@
 - - -
  
 ## Introducción
-Los transductores son dispositivos que convierten una señal de una naturaleza energética en otra. Se emplean para normalizar señales analógicas y digitales para su posterior análisis en otros elementos.
+Los transductores son dispositivos que convierten una señal de una naturaleza física en otra energética, normalmente eléctrica. Se emplean para normalizar señales analógicas y digitales para su posterior análisis en otros elementos.
+Un sensor es un transductor que se utiliza para medir una variable física del entorno.
  
 [Transductores](https://waleskadorante.wordpress.com/2017/01/23/transductor/)
 [Transductores Lumínicos](https://waleskadorante.wordpress.com/2017/01/23/transductores-luminosos/)
