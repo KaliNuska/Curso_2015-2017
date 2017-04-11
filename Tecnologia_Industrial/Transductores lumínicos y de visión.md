@@ -9,6 +9,7 @@ Un sensor es un transductor que se utiliza para medir una variable física del e
 [Transductores Lumínicos](https://waleskadorante.wordpress.com/2017/01/23/transductores-luminosos/)
 ## Fundamento
  * *Onda electromagnética*
+ y=A\cos(\omega t + k'x)
  * *Energía e Intensidad de una onda electromagnética*
  * *Interacción de la onda electromagnética con la materia*
 ## Captación de intensidades lumínicas
