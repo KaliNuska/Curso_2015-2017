@@ -11,10 +11,24 @@ Por lo general, los transductores lumínicos son pasivos ya que no se conectan a
 
 [Transductores Lumínicos](https://waleskadorante.wordpress.com/2017/01/23/transductores-luminosos/)
 ### Fundamento
- * *Onda electromagnética*
- y=A\cos(\omega t + k'x)
- * *Energía e Intensidad de una onda electromagnética*
- * *Interacción de la onda electromagnética con la materia*
+##### *Onda electromagnética*
+Maxwell demostró la naturaleza electromagnética de la luz, en la que el campo eléctrico y el campo magnético cumplen una misma ecuación de onda armónica:  
+[![](http://i.imgur.com/eN9KGB3.png)](http://i.imgur.com/TY27u5t.png)
+##### *Energía, Potencia e Intensidad de una onda electromagnética*
+Dicha onda transporta energía al hacer vibrar a todas las partículas sucesivamente. Se puede afirmar que la velocidad de propagación de la onda coincide con la velocidad de propagación de la energía de la onda, de forma que la ecuación energética de la onda es la siguiente:  
+[![](http://i.imgur.com/4LJM94K.png)](http://i.imgur.com/wG00ymL.png)  
+La potencia de la onda electromagnética lumínica es energía total emitida dividida por el tiempo que ha llevado emitirla:  
+[![](http://i.imgur.com/FguUgGV.png)](http://i.imgur.com/liAbM6i.png)  
+Esta potencia es propagada por la suma de todos los frentes de onda. Si la superficie de propagación (o frente de onda) es esférica, se trata de una onda tridimensional, la potencia se distribuye por el volumen de la esfera que tiene como centro el generador de la onda. Si la onda es bidimensional, el frente de onda por el que se propaga la potencia es el cilindro de luz que sale del plano generador en una dirección. Este último es el caso del rayo láser.  
+La  intensidad de la onda electromagnética se define como la potencia dividida por la superficie del frente de onda. La intensidad de una onda bidimensional es diferente a la de la onda tridimensional:
+
+| Onda bidimensional | Onda tridimensional |
+|:------------------:|:-------------------:|
+| [![](http://i.imgur.com/VpII9ZR.png)](http://i.imgur.com/VpII9ZR.png) | [![](http://i.imgur.com/JIE3zl9.png)](http://i.imgur.com/JIE3zl9.png) |
+
+##### *Interacción de la onda electromagnética con la materia*
+
+
 ### Captación de intensidades lumínicas
  * *Transmitancia*
  * *Absorbancia*
