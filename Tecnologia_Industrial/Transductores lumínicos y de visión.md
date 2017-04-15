@@ -27,7 +27,49 @@ La  intensidad de la onda electromagnética se define como la potencia dividida 
 | [![](http://i.imgur.com/VpII9ZR.png)](http://i.imgur.com/VpII9ZR.png) | [![](http://i.imgur.com/JIE3zl9.png)](http://i.imgur.com/JIE3zl9.png) |
 
 ##### *Interacción de la onda electromagnética con la materia*
-
+Interacción de la luz con la materia: reflexión, re
+fracción y absorción
+:  
+Cuando una onda plana luminosa incide sobre una sup
+erficie que separa dos medios diferentes, 
+parte de la intensidad incidente se refleja y parte
+ se refracta o transmite, cumpliendose que la suma 
+de 
+las  intensidades  reflejada  y  refractada  (o  transmit
+ida)  es  igual  a  la  intensidad  incidente.    Si  la  ond
+a 
+luminosa  incide  sobre  una  lámina  de  caras  plano-par
+alelas,  también  se  produce  el  fenómeno  de 
+reflexión y transmisión a través de la lámina. 
+Cuando una onda plana electromagnética se propaga p
+or un medio puede darse el caso de que la 
+intensidad  permanezca  constante  en  cualquier  secció
+n  transversal  d  él,  en  cuyo  caso  se  dice  que  el 
+medio  es  no  absorbente,  o  ir  disminuyendo  con  la  di
+stancia  recorrida  por  la  onda,  en  cuyo  caso  el 
+medio es absorbente. El proceso de absorción de la 
+intensidad de una onda por un medio depende de la 
+frecuencia   de   la   onda.   Para   frecuencias   relativamen
+te   bajas   (inferiores   a   20   Ghz)   la   onda 
+electromagnética proporciona energía cinética a las
+ moléculas y éstas rozan entre sí por lo que pierde
+n 
+7
+parte  de  la  energía  (que  se  convierte  casi  siempre 
+en  calor).  Cuando  la  frecuencia  es  muy  superior  la 
+onda  electromagnética  se  comporta  como  un  chorro  de
+  partículas  llamadas  fotones  las  cuales  chocan 
+con  los  electrones  de  los  átomos  y  les  proporcionan
+  energía  para  subir  de  nivel  energético  dentro  del 
+propio átomo. En el momento del choque el fotón des
+aparece y su energía sirve para elevar de nivel al 
+electrón. Bajo este punto de vista (teoría corpuscu
+lar de la luz) cada fotón posee una energía dada po
+r 
+la ecuación E = hf, donde h es la constante de Plan
+ck y tiene por valor h = 6.626.10
+-34
+ Joule.seg. 
 
 ### Captación de intensidades lumínicas
  * *Transmitancia*
