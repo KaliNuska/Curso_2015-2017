@@ -15,9 +15,7 @@ Según la magnitud que transforman:
 
 ## Transductores lumínicos
 Los transductores lumínicos, luminosos, de iluminación o de luz se emplean, por ejemplo, para medir variaciones en la luminosidad de un entorno, como sensores de posición para activar o desactivar sistemas o analizar si el recubrimiento de  ciertos objetos es metálico o no.
-Por lo general, los transductores lumínicos son pasivos ya que no se conectan a una fuente eléctrica externa para dar respuesta a la magnitud física a medir, pues se basan en propiedades físicas, como el efecto fotoeléctrico.
-
-[Transductores Lumínicos](https://waleskadorante.wordpress.com/2017/01/23/transductores-luminosos/)
+Por lo general, los transductores lumínicos son pasivos ya que no se conectan a una fuente eléctrica externa para dar respuesta a la magnitud física a medir, pues se basan en propiedades físicas, como el efecto fotoeléctrico.  
 ### Fundamento
 Para poder explicar el funcionamiento de los transductores de luz, es necesario conocer qué es la luz y cómo se comporta.
 
