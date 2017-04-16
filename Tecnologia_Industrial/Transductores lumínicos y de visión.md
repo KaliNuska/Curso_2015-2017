@@ -43,7 +43,11 @@ La intensidad transmitida a un medio absorbente depende tanto del propio medio c
 ### Clasificación de transductores lumínicos
 
  * Fototubos
+Un fototubo es un transductor cuyo funcionamiento se basa en el efecto fotoeléctrico: cuando un fotón con suficiente energía llega a un metal, arranca un electrón de dicho metal. La composición de un fototubo, o célula fotoeléctrica, es: un tubo de vidrio donde se hace el vacío, en cuyo interior se coloca un metal de forma semicilíndrica y al otro extremo un electrodo metálico. Se alimenta con corriente continua de tal forma que el polo negativo se conecta al metal cilíndrico (cátodo) y el positivo se conecta a una resistencia en serie con el otro electrodo (ánodo).  
+Al incidir la luz sobre el metal cilíndrico, desprende electrones que son atraídos por el electrodo positivo. Así se genera una corriente y se crea una diferencia de potencial eléctrico entre los bornes de la resistencia, el cual es proporcional a la intensidad de la luz incidente sobre la célula fotoeléctrica.
  * Fotomultipicadores
+Cuando la intensidad de la luz incidente en el fototubo es muy pequeña, por lo que se generaría una corriente demasiado pequeña, pero se quiere un transductor que trabaje con intensidades muy bajas de luz, se emplea el fotomultiplicador.  
+En este transductor los electrones que emergen del cátodo en vez de llegar directamente al ánodo, llegan a otro electrodo, dínodo, en el que chocan, arrancando un mayor número de electrones que los que generarían llegando al ánodo directamente. Éstos se dirigen hacia otro dínodo y le arrancan mas electrones aún. El proceso se repite tantas veces como dínodos contenga el fotomultiplicador. Finalmente todos los electrones llegan al ánodo y generan la intensidad de corriente y la diferencia de potencial en el circuito exterior del fotomultiplicador.
  * Fotorresistencias
  * Fotodiodos
  * Fototransistores
