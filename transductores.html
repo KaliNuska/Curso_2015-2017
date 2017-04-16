@@ -1,0 +1,215 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Temporal by KaliNuska</title>
+    <link href='https://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/Temporal/assets/css/style.css?v=0827e0f1ddf60b2766f687b7ec0ccd3a06fb72cf">
+    <script src="/Temporal/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">Temporal</h1>
+        <p class="header">temp</p>
+
+        <ul>
+          
+          <li><a class="buttons github" href="https://github.com/KaliNuska/Temporal">View On GitHub</a></li>
+        </ul>
+
+        
+          <p class="header">This project is maintained by <a class="header name" href="https://github.com/KaliNuska">KaliNuska</a></p>
+        
+
+        
+      </header>
+
+      <section>
+        <h1 id="transductores-lumínicos-y-de-visión">Transductores lumínicos y de visión</h1>
+<h2 id="introducción-a-los-transductores">Introducción a los transductores</h2>
+<p>Los transductores son dispositivos que convierten una señal de naturaleza física (mecánica, térmica, magnética, eléctrica, lumínica, etc.) en otra magnitud, normalmente eléctrica. Se emplean para normalizar todo tipo de señales analógicas y digitales.<br />
+A la señal de entrada se aplica una función de transferencia en el transductor de tal forma que la señal de naturaleza física quede relacionada con la de respuesta, eléctrica.<br />
+Un sensor es un transductor que se utiliza para medir una variable física del entorno. De esta forma: <strong><code class="highlighter-rouge">no todos los transductores son sensores, pero todos los sensores son transductores</code></strong>.<br />
+Los transductores se pueden clasificar atendiendo, por ejemplo, a la energía que necesitan para su funcionamiento o a la magnitud física que transforman:<br />
+Según la energía que necesitan para funcionar:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Activos</th>
+      <th style="text-align: center">Pasivos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Necesitan una alimentación eléctrica externa</td>
+      <td style="text-align: center">No requieren alimentcaión externa, pues se basan exclusivamente en propiedades y leyes físicas</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Según la magnitud que transforman:</p>
+<blockquote>
+  <p>Posición linear o angular, desplazamiento, velocidad linear o angular, aceleración, fuerza y par, nivel, presión, caudal, temperatura, proximidad, luminosidad…</p>
+</blockquote>
+
+<h2 id="transductores-lumínicos">Transductores lumínicos</h2>
+<p>Los transductores lumínicos, luminosos, de iluminación o de luz se emplean, por ejemplo, para medir variaciones en la luminosidad de un entorno, como sensores de posición para activar o desactivar sistemas o analizar si el recubrimiento de  ciertos objetos es metálico o no.
+Por lo general, los transductores lumínicos son pasivos ya que no se conectan a una fuente eléctrica externa para dar respuesta a la magnitud física a medir, pues se basan en propiedades físicas, como el efecto fotoeléctrico.</p>
+<h3 id="fundamento">Fundamento</h3>
+<p>Para poder explicar el funcionamiento de los transductores de luz, es necesario conocer qué es la luz y cómo se comporta.</p>
+
+<h5 id="onda-electromagnética"><em>Onda electromagnética</em></h5>
+<p>Maxwell demostró la naturaleza electromagnética de la luz, en la que el campo eléctrico y el campo magnético cumplen una misma ecuación de onda armónica:<br />
+<a href="http://i.imgur.com/TY27u5t.png"><img src="http://i.imgur.com/eN9KGB3.png" alt="" /></a></p>
+<h5 id="energía-potencia-e-intensidad-de-una-onda-electromagnética"><em>Energía, Potencia e Intensidad de una onda electromagnética</em></h5>
+<p>Dicha onda transporta energía al hacer vibrar todas las partículas sucesivamente. Se puede afirmar que la velocidad de propagación de la onda coincide con la velocidad de propagación de la energía de la onda, de forma que la ecuación energética de la onda es la siguiente:<br />
+<a href="http://i.imgur.com/wG00ymL.png"><img src="http://i.imgur.com/4LJM94K.png" alt="" /></a><br />
+La potencia de la onda electromagnética lumínica es energía total emitida dividida por el tiempo que ha llevado emitirla:<br />
+<a href="http://i.imgur.com/liAbM6i.png"><img src="http://i.imgur.com/FguUgGV.png" alt="" /></a><br />
+Esta potencia es propagada por la suma de todos los frentes de onda. Si la superficie de propagación (o frente de onda) es esférica, se trata de una onda tridimensional, la potencia se distribuye por el volumen de la esfera que tiene como centro el generador de la onda. Si la onda es bidimensional, el frente de onda por el que se propaga la potencia es el cilindro de luz que sale del plano generador en una dirección. Este último es el caso del rayo láser.<br />
+La  intensidad de la onda electromagnética se define como la potencia dividida por la superficie del frente de onda. La intensidad de una onda bidimensional es diferente a la de la onda tridimensional:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Onda bidimensional</th>
+      <th style="text-align: center">Onda tridimensional</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="http://i.imgur.com/VpII9ZR.png"><img src="http://i.imgur.com/VpII9ZR.png" alt="" /></a></td>
+      <td style="text-align: center"><a href="http://i.imgur.com/JIE3zl9.png"><img src="http://i.imgur.com/JIE3zl9.png" alt="" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h5 id="interacción-de-la-onda-electromagnética-con-la-materia"><em>Interacción de la onda electromagnética con la materia</em></h5>
+<p>Las interacciones que la luz tiene con la materia son: <code class="highlighter-rouge">reflexión</code>, <code class="highlighter-rouge">refracción</code> y <code class="highlighter-rouge">absorción</code>.<br />
+Cuando una onda lumínica bidimensional incide sobre una superficie que separa dos medios diferentes se cumple que la suma de la intensidad reflejada y la intensidad refractada o absorbida, equivale a la intensidad que incide.<br />
+De igual forma, cuando una onda lumínica plana se propaga por un medio, la intensidad puede permanecer constante, en cuyo caso se dice que el medio por el que discurre es no absorbente, o ir disminuyendo conforme la onda recorre distancia, en cuyo caso el medio es absorbente. La absorción de intensidad por un medio depende de la frecuencia de la onda. Para frecuencias inferiores a 20 Ghz la onda electromagnética proporciona energía cinética a las moléculas y éstas rozan entre sí por lo que pierden parte de la energía en forma de calor. Cuando la frecuencia es muy superior, la onda electromagnética se comporta como un haz de fotones, los cuales chocan con los electrones de los átomos y les proporcionan energía para alcanzar mayor nivel energético (orbital) dentro del propio átomo. Cada fotón del haz posee una energía dada por la ecuación <code class="highlighter-rouge">E[Energía] = h[Constante de Planck] · f[frecuencia]</code>.</p>
+
+<h5 id="captación-de-intensidades-lumínicas"><em>Captación de intensidades lumínicas</em></h5>
+<p>La absorción de la luz por un medio material, lo que  se analiza mediante las siguientes magnitudes:</p>
+<ul>
+  <li>
+    <p><em>Transmitancia</em>: cociente entre la intensidad transmitida y la intensidad incidente.</p>
+  </li>
+  <li>
+    <p><em>Absorbancia</em>: opuesto del logaritmo decimal de la transmitancia
+ <img src="http://i.imgur.com/2IeAthC.png" alt="" /></p>
+  </li>
+</ul>
+
+<p>La intensidad transmitida a un material absorbente depende tanto del propio material o medio como de la distancia que recorre la luz en él. La ley de Lambert relaciona la intensidad de la luz en función de la distancia que recorre en el medio absorbente, y la ley de Beer relaciona la intensidad transmitida en función de la concentración de la disolución (el medio):<br />
+<img src="http://i.imgur.com/zUAWfAq.png" alt="" /></p>
+<h3 id="clasificación-de-transductores-lumínicos">Clasificación de transductores lumínicos</h3>
+<ul>
+  <li>Fototubos:<br />
+Un fototubo es un transductor cuyo funcionamiento se basa en el efecto fotoeléctrico: cuando un fotón con suficiente energía llega a un metal, arranca un electrón de dicho metal. La composición de un fototubo, o célula fotoeléctrica, es: un tubo de vidrio donde se hace el vacío, en cuyo interior se coloca un metal de forma semicilíndrica y al otro extremo un electrodo metálico. Se alimenta con corriente continua de tal forma que el polo negativo se conecta al metal cilíndrico (cátodo) y el positivo se conecta a una resistencia en serie con el otro electrodo (ánodo).<br />
+Al incidir la luz sobre el metal cilíndrico, desprende electrones que son atraídos por el electrodo positivo. Así se genera una corriente y se crea una diferencia de potencial eléctrico entre los bornes de la resistencia, el cual es proporcional a la intensidad de la luz incidente sobre la célula fotoeléctrica.</li>
+  <li>Fotomultipicadores:<br />
+Cuando la intensidad de la luz incidente en el fototubo es muy pequeña, por lo que se generaría una corriente demasiado pequeña, pero se quiere un transductor que trabaje con intensidades muy bajas de luz, se emplea el fotomultiplicador.<br />
+En este transductor los electrones que emergen del cátodo en vez de llegar directamente al ánodo, llegan a otro electrodo, dínodo, en el que chocan, arrancando un mayor número de electrones que los que generarían llegando al ánodo directamente. Éstos se dirigen hacia otro dínodo y le arrancan mas electrones aún. El proceso se repite tantas veces como dínodos contenga el fotomultiplicador. Finalmente todos los electrones llegan al ánodo y generan la intensidad de corriente y la diferencia de potencial en el circuito exterior del fotomultiplicador.</li>
+  <li>Fotorresistencias:<br />
+Las fotorresistencias son semiconductores (<code class="highlighter-rouge">Si</code>, <code class="highlighter-rouge">Ge</code>) cuya resistencia eléctrica depende del flujo luminoso que incide sobre ellas.<br />
+La intensidad que incide sobre ellas por unidad de superficie, medida en <code class="highlighter-rouge">lux</code>, se denomina Iluminancia.<br />
+La ecuación que relaciona la resistencia en función de la iluminación es:<br />
+<img src="http://i.imgur.com/qftXGRf.png" alt="" /><br />
+De la ecuación se deduce que al aumentar la iluminación disminuye la resistencia, por lo que se comporta como una resistencia <code class="highlighter-rouge">NTC</code>.<br />
+Sin embargo, la precisión de las fotorresistencias es bastante baja y su capacidad de respuesta a pequeños cambios, lenta, lo que reduce su aplicación a funciones sencillas como el control del encendido de farolas o el ajuste de los valores de imagen (exposición, brillo, uso de flash) al hacer una fotografía.<br />
+<img src="http://i.imgur.com/bua4N11.png" alt="" /></li>
+  <li>Fotodiodos:<br />
+Cuando una unión PN de un diodo es iluminada con radiación electromagnética (visible o invisible), la barrera de potencial (diferencia de potencial eléctrico formada por el campo eléctrico existente entre las cargas positivas y negativas) de la unión se altera. La variación de la barrera de potencial puede medirse mediante un voltímetro y expresarse en función de la intensidad lumínica incidente.<br />
+El fotodiodo se construye con tres zonas semiconductoras (PIN): una N (con electrones libres), otra P (con falta de electrones) y otro semiconductor intrínseco (puro) entre las dos zonas.<br />
+Al conectar un fotodiodo a un circuito mediante una resistencia, por ésta circula una corriente proporcional a la intensidad luminosa incidente, de modo que la incidencia de luz provoca una corriente en el sentido inverso al del diodo.<br />
+<img src="http://i.imgur.com/12GkRkd.png" alt="" /></li>
+  <li>Fototransistores:<br />
+Al igual que el fotodiodo, un fototransistor también posee una unión PN que se debe iluminar con radiación electromagnética.<br />
+En el fototransistor, es la base y el emisor lo que forma la unión PN.
+Al iluminarla, se forma el diodo Base-Emisor, siendo la radiación electromagnética la encargada del aporte energético para que se produzca la corriente en el diodo. El fototransistor se conecta a una fuente de tensión mediente una resistencia en el colector, permitiendo que circule la corriente por el transistor en el sentido Colector-Emisor cuando recibe iluminación.<br />
+<img src="http://i.imgur.com/YSJGpWj.png" alt="" /></li>
+  <li>Sensores ópticos:<br />
+Los sensores ópticos presentan numerosas aplicaciones en la detección de objetos en funcionamiento como transductores de proximidad o posición. Utilizan un emisor de infrarrojos, generalmente, y que forma una barrera con un fototransistor o fotodiodo.<br />
+<img src="http://i.imgur.com/6bCVm1N.png" alt="" />
+    <ul>
+      <li>Sensores de reflexión:<br />
+El LED emisor y el receptor se encuentran en el mismo módulo o encapsulado. Es necesario que el objeto sea reflectante para que el haz de luz de refleje e incida en el receptor.  <img src="http://i.imgur.com/MNqmXJu.png" alt="" /><img src="http://i.imgur.com/NpvVOpj.png" alt="" /></li>
+      <li>Sensores de proximidad:<br />
+Nuevamente, el LED emisor y el receptor se ubican en el mismo encapsulado. Para detectar la posición, el sensor de proximidad emite un haz luminoso modulado, que puede reflejarse al impactar con otro objeto y ser detectado por el receptor, que evalúa la señal percibida.<br />
+<img src="http://i.imgur.com/XliHSiC.png" alt="" /></li>
+      <li>Sensor Fotoeléctrico de Barrera:<br />
+En los detectores de barrera, el objeto se interpone entre el emisor del haz luminoso y el receptor. Dependiendo de si la luz llega o no al receptor, se produce la conmutación.<br />
+<img src="http://i.imgur.com/LiYd4m9.png" alt="" />
+<img src="http://i.imgur.com/UXGZ66e.png" alt="" /></li>
+      <li>Sensor Fotoeléctrico de Retroreflexión:<br />
+El funcionamiento es análogo al del sensor de barrera, pero en los sensores de retrorreflexión el emisor y el receptor están en el mismo encapsulado y el elemento opuesto a ellos es un reflector.<br />
+<img src="http://i.imgur.com/WOmKMzj.png" alt="" /><br />
+<img src="http://i.imgur.com/yL67fZJ.png" alt="" /></li>
+      <li>Sensor Fotoeléctrico Reflectivo Difuso:<br />
+En este sensor, es el objeto a detectar el que realiza la función de reflector. Estos sensores permiten aproximar la distancia del objeto utilizando varios receptores como se aprecia en el esquema:<br />
+<img src="http://i.imgur.com/96jERj3.png" alt="" />
+<img src="http://i.imgur.com/6GiiNFw.png" alt="" />
+        <h2 id="transductores-de-visión">Transductores de visión</h2>
+        <p>Los transductores de visión o de imagen son sensores presentes en cualquier dispositivo de grabación de imagen. Su funcionamiento se basa en convertir la atenuación de las ondas de luz, al atravesar o verse reflejadas por cuerpos, en señales eléctricas. De esta forma detectan y capturan la informacion para componer la imagen.<br />
+Se comercializan como chips que se componen de millones de fototransistores y la imagen que producen depende de la cantidad de fototransistores implicados en la composición de la misma. En un chip de visión o de imagen, cada uno de los fototransistores que lo componen reciben el nombre de píxel. Un sólo chip suele contener varios millones de píxeles (del inglés <em><code class="highlighter-rouge">picture element</code></em>, elemento de imagen), por lo que se habla del número de Megapíxeles al describir un sensor.<br />
+La sensibilidad del sensor depende de lo que se denomina <em>eficiencia cuántica</em>, esto es, la la cantidad mínima de fotones que deben incidir en cada fototransistor para que tenga lugar el efecto fotoeléctrico. El número de electrones que se desprenden es directamente proporcional a la intensidad lumínica. El proceso que sigue en el funcionamiento de un sensor varía dependiendo de qué modelo de sensor se utilice:</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">CCD</th>
+      <th style="text-align: left">CMOS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Los electrones producidos son transferidos de cada píxel detector o <em>fotosite</em> al amplificador de señal, que será transmitida a la computadora de la imagen.</td>
+      <td style="text-align: left">La señal se amplifica antes de salir de cada <em>fotosite</em>, para lo que hay un amplificador por cada pixel. Esto soluciona problemas de interacción entre píxeles que tienen lugar en los sensores CCD, pero disminuye la superficie sensible a la luz.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>En cualquiera de estos dos casos la obtención del color se produce analizando uno de los tres colores primarios e interpolando los otros dos. Esto no ocurre en los sensores Foveon, que tienen tres detectores de color en cada pixel para no realizar interpolación alguna.<br />
+Como curiosidad cabe añadir que los sensores Kodak perciben los colores <code class="highlighter-rouge">cian</code>, <code class="highlighter-rouge">magenta</code> y <code class="highlighter-rouge">amarillo</code>, en lugar de <code class="highlighter-rouge">rojo</code>, <code class="highlighter-rouge">verde</code> y <code class="highlighter-rouge">azul</code>, por demostrar mejor sensibilidad en ciertas circunstancias.</p>
+
+<p>Las imágenes captadas por estos sensores no sólo sirven para tomar fotos y grabar películas en formato digital, sino que pueden ser analizadas mediante procesadores por píxeles para interpretar su contenido. Esto ha llevado a aplicaciones tales como el reconocimiento de objetos o personas mediante cámaras, que realiza una labor muy útil en criminología o incluso sistemas de seguridad basados en contraseñas de imagen.<br />
+<img src="http://totem.com.ec/blog/wp-content/uploads/2013/12/reconocimiento-facial.jpg" alt="" /></p>
+
+<h2 id="conclusión">Conclusión</h2>
+<p>Para terminar, recomiendo encarecidamente los siguientes artículos (el primero en inglés) para aquellos más interesados en los fundamentos de la fotografía y de sus sensores:</p>
+<ul>
+  <li><a href="https://render.githubusercontent.com/view/pdf?commit=97b191f3536074836f28305b4241f72de1dfd5ce&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4b616c694e75736b612f437572736f5f323031352d323031372f393762313931663335333630373438333666323833303562343234316637326465316466643563652f5465636e6f6c6f6769615f496e647573747269616c2f496d6167655f53656e736f725f4172636869746563747572655f576869746570617065725f4469676974616c5f43696e656d615f30303231382d30305f30332d37302e706466&amp;nwo=KaliNuska%2FCurso_2015-2017&amp;path=Tecnologia_Industrial%2FImage_Sensor_Architecture_Whitepaper_Digital_Cinema_00218-00_03-70.pdf"><code class="highlighter-rouge">Image Sensor Architectures for Digital Cinematography</code> de <strong>DALSA</strong></a>. <a href="https://github.com/KaliNuska/Curso_2015-2017/raw/master/Tecnologia_Industrial/Image_Sensor_Architecture_Whitepaper_Digital_Cinema_00218-00_03-70.pdf">PDF</a></li>
+  <li><a href="http://www2.uned.es/personal/rosuna/resources/photography/ImageQuality/fundamentos.imagen.digital.pdf"><code class="highlighter-rouge">Fundamentos de fotografía digital</code> de <strong>Efraín García</strong> y <strong>Rubén Osuna</strong></a> y <a href="http://www2.uned.es/personal/rosuna/resources/fotografia.htm">más artículos</a>.</li>
+</ul>
+
+<h2 id="fuentes">Fuentes</h2>
+<ul>
+  <li><a href="http://www.uv.es/~navasqui/Tecnologia/Tema4.pdf"><code class="highlighter-rouge">Transductores</code> del <strong>Departamento de Tecnología de la Universidad de Valencia</strong></a></li>
+  <li><a href="http://iesalfonsox.es/wp-content/uploads/2015/07/Tema10.-transductores.-Sus-tipos.pdf"><code class="highlighter-rouge">Los transductores. Sus tipos</code> del <strong>IES Alfonso X el Sabio de Toledo</strong></a></li>
+  <li><a href="http://www.eudim.uta.cl/files/5813/2069/8949/fm_Ch03_mfuentesm.pdf"><code class="highlighter-rouge">Sensores y transductores</code> de la <strong>Escuela Universitaria de Ingenieria Mecanica - Universidad de Tarapaca</strong> (Chile)</a></li>
+</ul>
+
+
+      </section>
+
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
+
