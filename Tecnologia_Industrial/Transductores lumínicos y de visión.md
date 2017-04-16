@@ -8,7 +8,7 @@ Según la energía que necesitan para funcionar:
 
 | Activos | Pasivos |
 |:-------:|:-------:|
-| Necesitan una alimentación eléctrica externa | No requieren alimentcaión externa, pues se basan exclusivamente en propiedades y leyes físicas |
+| Necesitan una alimentación eléctrica externa | No requieren alimentación externa, pues se basan exclusivamente en propiedades y leyes físicas |
 
 Según la magnitud que transforman:
 > Posición linear o angular, desplazamiento, velocidad linear o angular, aceleración, fuerza y par, nivel, presión, caudal, temperatura, proximidad, luminosidad...
@@ -37,7 +37,7 @@ La  intensidad de la onda electromagnética se define como la potencia dividida 
 ##### *Interacción de la onda electromagnética con la materia*
 Las interacciones que la luz tiene con la materia son: `reflexión`, `refracción` y `absorción`.  
 Cuando una onda lumínica bidimensional incide sobre una superficie que separa dos medios diferentes se cumple que la suma de la intensidad reflejada y la intensidad refractada o absorbida, equivale a la intensidad que incide.  
-De igual forma, cuando una onda lumínica plana se propaga por un medio, la intensidad puede permanecer constante, en cuyo caso se dice que el medio por el que discurre es no absorbente, o ir disminuyendo conforme la onda recorre distancia, en cuyo caso el medio es absorbente. La absorción de intensidad por un medio depende de la frecuencia de la onda. Para frecuencias inferiores a 20 Ghz la onda electromagnética proporciona energía cinética a las moléculas y éstas rozan entre sí por lo que pierden parte de la energía en forma de calor. Cuando la frecuencia es muy superior, la onda electromagnética se comporta como un haz de fotones, los cuales chocan con los electrones de los átomos y les proporcionan energía para alcanzar mayor nivel energético (orbital) dentro del propio átomo. Cada fotón del haz posee una energía dada por la ecuación `E[Energía] = h[Constante de Planck] · f[frecuencia]`.
+De igual forma, cuando una onda lumínica plana se propaga por un medio, la intensidad puede permanecer constante, en cuyo caso se dice que el medio por el que discurre es no absorbente, o ir disminuyendo conforme la onda recorre distancia, en cuyo caso el medio es absorbente. La absorción de intensidad por un medio depende de la frecuencia de la onda. Para frecuencias inferiores a 20 GHz la onda electromagnética proporciona energía cinética a las moléculas y éstas rozan entre sí por lo que pierden parte de la energía en forma de calor. Cuando la frecuencia es muy superior, la onda electromagnética se comporta como un haz de fotones, los cuales chocan con los electrones de los átomos y les proporcionan energía para alcanzar mayor nivel energético (orbital) dentro del propio átomo. Cada fotón del haz posee una energía dada por la ecuación `E[Energía] = h[Constante de Planck] · f[frecuencia]`.
 
 ##### *Captación de intensidades lumínicas*
 La absorción de la luz por un medio material, lo que  se analiza mediante las siguientes magnitudes:
@@ -52,9 +52,9 @@ La intensidad transmitida a un material absorbente depende tanto del propio mate
  * Fototubos:  
 Un fototubo es un transductor cuyo funcionamiento se basa en el efecto fotoeléctrico: cuando un fotón con suficiente energía llega a un metal, arranca un electrón de dicho metal. La composición de un fototubo, o célula fotoeléctrica, es: un tubo de vidrio donde se hace el vacío, en cuyo interior se coloca un metal de forma semicilíndrica y al otro extremo un electrodo metálico. Se alimenta con corriente continua de tal forma que el polo negativo se conecta al metal cilíndrico (cátodo) y el positivo se conecta a una resistencia en serie con el otro electrodo (ánodo).  
 Al incidir la luz sobre el metal cilíndrico, desprende electrones que son atraídos por el electrodo positivo. Así se genera una corriente y se crea una diferencia de potencial eléctrico entre los bornes de la resistencia, el cual es proporcional a la intensidad de la luz incidente sobre la célula fotoeléctrica.
- * Fotomultipicadores:  
+ * Fotomultiplicadores:  
 Cuando la intensidad de la luz incidente en el fototubo es muy pequeña, por lo que se generaría una corriente demasiado pequeña, pero se quiere un transductor que trabaje con intensidades muy bajas de luz, se emplea el fotomultiplicador.  
-En este transductor los electrones que emergen del cátodo en vez de llegar directamente al ánodo, llegan a otro electrodo, dínodo, en el que chocan, arrancando un mayor número de electrones que los que generarían llegando al ánodo directamente. Éstos se dirigen hacia otro dínodo y le arrancan mas electrones aún. El proceso se repite tantas veces como dínodos contenga el fotomultiplicador. Finalmente todos los electrones llegan al ánodo y generan la intensidad de corriente y la diferencia de potencial en el circuito exterior del fotomultiplicador.
+En este transductor los electrones que emergen del cátodo en vez de llegar directamente al ánodo, llegan a otro electrodo, dínodo, en el que chocan, arrancando un mayor número de electrones que los que generarían llegando al ánodo directamente. Éstos se dirigen hacia otro dínodo y le arrancan más electrones aún. El proceso se repite tantas veces como dínodos contenga el fotomultiplicador. Finalmente, todos los electrones llegan al ánodo y generan la intensidad de corriente y la diferencia de potencial en el circuito exterior del fotomultiplicador.
  * Fotorresistencias:  
 Las fotorresistencias son semiconductores (`Si`, `Ge`) cuya resistencia eléctrica depende del flujo luminoso que incide sobre ellas.  
 La intensidad que incide sobre ellas por unidad de superficie, medida en `lux`, se denomina Iluminancia.  
@@ -71,7 +71,7 @@ Al conectar un fotodiodo a un circuito mediante una resistencia, por ésta circu
  * Fototransistores:  
 Al igual que el fotodiodo, un fototransistor también posee una unión PN que se debe iluminar con radiación electromagnética.  
 En el fototransistor, es la base y el emisor lo que forma la unión PN.
-Al iluminarla, se forma el diodo Base-Emisor, siendo la radiación electromagnética la encargada del aporte energético para que se produzca la corriente en el diodo. El fototransistor se conecta a una fuente de tensión mediente una resistencia en el colector, permitiendo que circule la corriente por el transistor en el sentido Colector-Emisor cuando recibe iluminación.  
+Al iluminarla, se forma el diodo Base-Emisor, siendo la radiación electromagnética la encargada del aporte energético para que se produzca la corriente en el diodo. El fototransistor se conecta a una fuente de tensión mediante una resistencia en el colector, permitiendo que circule la corriente por el transistor en el sentido Colector-Emisor cuando recibe iluminación.  
 ![](http://i.imgur.com/YSJGpWj.png)  
  * Sensores ópticos:  
 Los sensores ópticos presentan numerosas aplicaciones en la detección de objetos en funcionamiento como transductores de proximidad o posición. Utilizan un emisor de infrarrojos, generalmente, y que forma una barrera con un fototransistor o fotodiodo.  
@@ -85,7 +85,7 @@ El LED emisor y el receptor se encuentran en el mismo módulo o encapsulado. Es 
    En los detectores de barrera, el objeto se interpone entre el emisor del haz luminoso y el receptor. Dependiendo de si la luz llega o no al receptor, se produce la conmutación.  
    ![](http://i.imgur.com/LiYd4m9.png)
    ![](http://i.imgur.com/UXGZ66e.png)  
-   + Sensor Fotoeléctrico de Retroreflexión:  
+   + Sensor Fotoeléctrico de Retrorreflexión:  
    El funcionamiento es análogo al del sensor de barrera, pero en los sensores de retrorreflexión el emisor y el receptor están en el mismo encapsulado y el elemento opuesto a ellos es un reflector.  
    ![](http://i.imgur.com/WOmKMzj.png)  
    ![](http://i.imgur.com/yL67fZJ.png)  
@@ -94,9 +94,9 @@ El LED emisor y el receptor se encuentran en el mismo módulo o encapsulado. Es 
    ![](http://i.imgur.com/96jERj3.png)
    ![](http://i.imgur.com/6GiiNFw.png)  
 ## Transductores de visión
-Los transductores de visión o de imagen son sensores presentes en cualquier dispositivo de grabación de imagen. Su funcionamiento se basa en convertir la atenuación de las ondas de luz, al atravesar o verse reflejadas por cuerpos, en señales eléctricas. De esta forma detectan y capturan la informacion para componer la imagen.  
+Los transductores de visión o de imagen son sensores presentes en cualquier dispositivo de grabación de imagen. Su funcionamiento se basa en convertir la atenuación de las ondas de luz, al atravesar o verse reflejadas por cuerpos, en señales eléctricas. De esta forma detectan y capturan la información para componer la imagen.  
 Se comercializan como chips que se componen de millones de fototransistores y la imagen que producen depende de la cantidad de fototransistores implicados en la composición de la misma. En un chip de visión o de imagen, cada uno de los fototransistores que lo componen reciben el nombre de píxel. Un sólo chip suele contener varios millones de píxeles (del inglés *`picture element`*, elemento de imagen), por lo que se habla del número de Megapíxeles al describir un sensor.  
-La sensibilidad del sensor depende de lo que se denomina *eficiencia cuántica*, esto es, la la cantidad mínima de fotones que deben incidir en cada fototransistor para que tenga lugar el efecto fotoeléctrico. El número de electrones que se desprenden es directamente proporcional a la intensidad lumínica. El proceso que sigue en el funcionamiento de un sensor varía dependiendo de qué modelo de sensor se utilice:  
+La sensibilidad del sensor depende de lo que se denomina *eficiencia cuántica*, esto es, la cantidad mínima de fotones que deben incidir en cada fototransistor para que tenga lugar el efecto fotoeléctrico. El número de electrones que se desprenden es directamente proporcional a la intensidad lumínica. El proceso que sigue en el funcionamiento de un sensor varía dependiendo de qué modelo de sensor se utilice:  
 
 | CCD | CMOS |
 |:----|:-----|
