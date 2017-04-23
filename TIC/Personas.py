@@ -45,22 +45,28 @@ for i in range(n):
 maximo = 0
 minimo = 99
 
-mayor = None
-menor = None
+mayor = []
+menor = []
 
 for person in array:
   if person.edad > maximo:
     maximo = person.edad
-    mayor = person
 
   if person.edad < minimo:
     minimo = person.edad
-    menor = person
+
+for person in array:
+  if person.edad == maximo:
+    mayor.append(person)
+  if person.edad == minimo:
+    menor.append(person)
 
 print('\nLa persona más mayor es:\n')
-print(mayor)
+for person in mayor:
+  print(person)
 print('\nLa persona más joven es:\n')
-print(menor)
+for person in menor:
+  print(person)
 
 
 def ordenar_burbuja(coleccion):
@@ -103,4 +109,3 @@ def discriminar(listado):
 discriminar(array)
 
 input('\n-- Pulse ENTER para salir --')
-
